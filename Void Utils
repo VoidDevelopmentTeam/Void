@@ -1,0 +1,28 @@
+{
+  "Passwords": {
+    "Dark": "DARK6379fcad-1cb8-4c5a-a609-a19b1699cacc",
+    "Glory": "GLORYBURGERMAN60596e3a-895a-4b0e-8173-41f466096346"
+  },
+  "Roblox": {
+    "OlderVersion": "NaN",
+    "CurrentVersion": "https://setup.rbxcdn.com/version-4273769ff5944c9d-Roblox.exe"
+  },
+  "AvailableDLLs": {
+    "Furk Ultra DLL": "True",
+    "Oxygen U API": "True"
+  },
+  "Info": {
+    "Major": "4",
+    "Minor": "0",
+    "Build": "0",
+    "Revision": "0"
+  },
+  "Links": {
+	"ServerInvite": "https://discord.gg/NyswhgX",
+    "PuppyMilk": "https://cdn.discordapp.com/attachments/629365751303766036/870281859597205574/Injector.exe",
+    "OxyBytecode": "https://cdn.discordapp.com/attachments/827074856415133716/877885790892478494/OxygenBytecode.dll",
+    "FurkBytecode": "https://cdn.discordapp.com/attachments/827074856415133716/877883181162954752/FurkByteCode.dll",
+	"Bypass": "https://cdn.discordapp.com/attachments/827074856415133716/877553510160433192/FurkUltra.exe",
+	"InjectBat": "https://cdn.discordapp.com/attachments/827074856415133716/877542482345332876/Inject.bat"
+  }
+}
