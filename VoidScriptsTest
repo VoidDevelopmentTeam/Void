@@ -7,13 +7,14 @@
             "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845393112218206239/FhKstt0.png",
 	    "Tags": ["AUTOFARM", "NEW"]
         },
-        {
-            "Name": "Darkhub",
-            "Script": "https://github.com/VoidDevelopmentTeam/Void/raw/main/Scripts/Darkhub2",
-            "Description": "#1 HUB for roblox exploiting",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845348167998373968/d8e0c0dc182e6fa9295cf3d4ac4376.png",
-	    "Tags": ["MM2", "BIG PAINTBALL", "MEEP CITY", "TOH", "TOHPRO", "KAT", "ARSENAL", "VR HANDS", "NINJA LEGENDS", "TRENDING"]
-        },        {
+	{
+            "Name": "Owl Hub",
+            "Script": "https://github.com/VoidDevelopmentTeam/Void/raw/main/Scripts/OwlHub11",
+            "Description": "One of the best hubs to use",
+            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845347715965517844/owlhyb_1.png"
+            "Tags": ["ISLAND ROYALE", "MM2", "ARSENAL", "PRISON LIFE"]
+	},        
+	{
             "Name": "Chat Bypasser",
             "Script": "https://raw.githubusercontent.com/VoidDevelopmentTeam/Void/main/Scripts/ChatBypasser3",
             "Description": "Bypass the chat and swear at people, has a feature where breaks the chat!",
@@ -62,5 +63,19 @@
             "Preview": "https://i.imgur.com/spVNVUb.jpg",
 	    "Tags": ["HOT", "TRENDING", "NEW"] -- change accordingly
         },
+        {
+            "Name": "Darkhub",
+            "Script": "https://github.com/VoidDevelopmentTeam/Void/raw/main/Scripts/Darkhub2",
+            "Description": "#1 HUB for roblox exploiting",
+            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845348167998373968/d8e0c0dc182e6fa9295cf3d4ac4376.png",
+	    "Tags": ["MM2", "BIG PAINTBALL", "MEEP CITY", "TOH", "TOHPRO", "KAT", "ARSENAL", "VR HANDS", "NINJA LEGENDS", "TRENDING"]
+        },
+	{
+        "Name": "Darkhub",
+        "Script": "https://github.com/VoidDevelopmentTeam/Void/raw/main/Scripts/DarkHub11",
+        "Description": "#1 HUB for roblox exploiting",
+        "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845348167998373968/d8e0c0dc182e6fa9295cf3d4ac4376.png",
+	"Tags": ["MM2", "BIG PAINTBALL", "MEEPCITY", "TOWER OF HELL", "KAT", "ARSENAL", "NINJA LEGENDS", "VR HANDS"]
+	}
     ]
 }
