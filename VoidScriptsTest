@@ -65,17 +65,10 @@
         },
         {
             "Name": "Darkhub",
-            "Script": "https://github.com/VoidDevelopmentTeam/Void/raw/main/Scripts/Darkhub2",
+            "Script": "https://github.com/VoidDevelopmentTeam/Void/raw/main/Scripts/Darkhub11",
             "Description": "#1 HUB for roblox exploiting",
             "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845348167998373968/d8e0c0dc182e6fa9295cf3d4ac4376.png",
-	    "Tags": ["MM2", "BIG PAINTBALL", "MEEP CITY", "TOH", "TOHPRO", "KAT", "ARSENAL", "VR HANDS", "NINJA LEGENDS", "TRENDING"]
-        },
-	{
-        "Name": "Darkhub",
-        "Script": "https://github.com/VoidDevelopmentTeam/Void/raw/main/Scripts/DarkHub11",
-        "Description": "#1 HUB for roblox exploiting",
-        "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845348167998373968/d8e0c0dc182e6fa9295cf3d4ac4376.png",
-	"Tags": ["MM2", "BIG PAINTBALL", "MEEPCITY", "TOWER OF HELL", "KAT", "ARSENAL", "NINJA LEGENDS", "VR HANDS"]
-	}
+	    "Tags": ["MM2", "BIG PAINTBALL", "MEEPCITY", "TOWER OF HELL", "KAT", "ARSENAL", "NINJA LEGENDS", "VR HANDS", "UNIVERSAL", "AUTOFARM"]
+        }
     ]
 }
