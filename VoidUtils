@@ -19,10 +19,10 @@
   },
   "Links": {
 	"ServerInvite": "https://discord.gg/NyswhgX",
-    "PuppyMilk": "https://cdn.discordapp.com/attachments/629365751303766036/870281859597205574/Injector.exe",
-    "OxyBytecode": "https://cdn.discordapp.com/attachments/834775618419556403/880157855972491374/OxygenBytecode.dll",
-    "FurkBytecode": "https://cdn.discordapp.com/attachments/834775618419556403/880157546017607780/FurkByteCode.dll",
-	"Bypass": "https://cdn.discordapp.com/attachments/827074856415133716/880366565428699166/FurkUltra.exe",
+    	"PuppyMilk": "https://cdn.discordapp.com/attachments/629365751303766036/870281859597205574/Injector.exe",
+    	"OxyBytecode": "https://cdn.discordapp.com/attachments/834775618419556403/880157855972491374/OxygenBytecode.dll",
+    	"FurkBytecode": "https://cdn.discordapp.com/attachments/834775618419556403/880157546017607780/FurkByteCode.dll",
+	"Bypass": "https://cdn.discordapp.com/attachments/827074856415133716/877553510160433192/FurkUltra.exe",
 	"InjectBat": "https://cdn.discordapp.com/attachments/827074856415133716/877542482345332876/Inject.bat"
   }
 }
