@@ -8,13 +8,13 @@
     "CurrentVersion": "https://setup.rbxcdn.com/version-4273769ff5944c9d-Roblox.exe"
   },
   "AvailableDLLs": {
-    "Furk Ultra DLL": "False",
+    "Furk Ultra DLL": "True",
     "Oxygen U API": "True"
   },
   "Info": {
     "Major": "4",
     "Minor": "0",
-    "Build": "0",
+    "Build": "1",
     "Revision": "0"
   },
   "Links": {
@@ -22,11 +22,7 @@
 	"OxyInjector": "https://cdn.discordapp.com/attachments/877682515404533770/880158298354102282/Injector.vmp.dll",
     	"FurkBytecode": "https://cdn.discordapp.com/attachments/827074856415133716/880470733854220369/FurkByteCode.dll",
 
-
-
-
 	"ServerInvite": "https://discord.gg/NyswhgX",
-    	"PuppyMilk": "https://cdn.discordapp.com/attachments/629365751303766036/870281859597205574/Injector.exe",
 	"Bypass": "https://cdn.discordapp.com/attachments/827074856415133716/877553510160433192/FurkUltra.exe",
 	"InjectBat": "https://cdn.discordapp.com/attachments/827074856415133716/877542482345332876/Inject.bat"
   }
