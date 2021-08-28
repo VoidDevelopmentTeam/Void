@@ -5,36 +5,42 @@
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/strong",
             "Description": "Auto Farm, Auto Finish & Alot More",
             "Preview": "https://i.imgur.com/HFs8p52.png",
+	    "Tags": ["HOT", "AUTOFARM", "OLD"]
         }, 
 		{
             "Name": "Owl Hub",
             "Script": "https://pastebin.com/raw/S0yfHHWN",
             "Description": "One of the best hubs to use",
             "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845347715965517844/owlhyb_1.png",
+	    "Tags": ["HOT", "OP", "OLD"]
         }, 
 		{
             "Name": "Phantom Forces",
             "Script": "https://pastebin.com/raw/Rx6JeU9M",
             "Description": "#1 Phantom Forces script has silent aim, esp and alot more features",
             "Preview": "https://i.imgur.com/ZbhUobz.png",
+	    "Tags": ["OP", "RISKY", "OLD"]
         },
         {
             "Name": "Shindo Life",
             "Script": "https://raw.githubusercontent.com/dontsteal/ok/main/ak47",
             "Description": "#1 Shindo Life script *Must wait around 10 seconds on executing*",
             "Preview": "https://i.imgur.com/F6UbRJK.png",
+	    "Tags": ["RISKY", "AUTOFARM", "OLD"]
         },
         {
             "Name": "Darkhub",
             "Script": "https://pastebin.com/raw/LwCa7jPq",
             "Description": "#1 HUB for roblox exploiting",
             "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845348167998373968/d8e0c0dc182e6fa9295cf3d4ac4376.png",
+	    "Tags": ["HOT", "AUTOFARM", "OP"]
         },
         {
             "Name": "Jail Break",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/j",
             "Description": "#1 Jailbreak script with an undetected autofarm",
             "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845363005558095942/85PwK0z.png",
+	    "Tags": ["HOT", "AUTOFARM", "OLD"]
         },
         {
             "Name": "Da Hood",
