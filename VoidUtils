@@ -9,7 +9,7 @@
   },
   "AvailableDLLs": {
     "Furk Ultra DLL": "True",
-    "Oxygen U API": "True"
+    "Oxygen U API": "False"
   },
   "Info": {
     "Major": "4",
