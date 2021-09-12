@@ -9,7 +9,8 @@
   },
   "AvailableDLLs": {
     "Furk Ultra DLL": "True",
-    "Oxygen U API": "True"
+    "Oxygen U API": "True",
+    "EasyExploits API": "True"
   },
   "Info": {
     "Major": "4",
