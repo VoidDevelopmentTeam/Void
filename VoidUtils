@@ -9,8 +9,8 @@
   },
   "AvailableDLLs": {
     "Furk Ultra DLL": "True",
-    "Oxygen U API": "True",
     "Delta DLL": "True",
+    "Oxygen U API": "True",
     "EasyExploits API": "False"
   },
   "Info": {
