@@ -9,6 +9,8 @@
   },
   "AvailableDLLs": {
     "Oxygen U API": "True",
+    "Delta DLL": "True",
+    "EasyExploits API": "False"
   },
   "Info": {
     "Major": "4",
