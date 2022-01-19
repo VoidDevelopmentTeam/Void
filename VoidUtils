@@ -8,10 +8,8 @@
     "CurrentVersion": "https://setup.rbxcdn.com/version-4273769ff5944c9d-Roblox.exe"
   },
   "AvailableDLLs": {
-    "Furk Ultra DLL": "True",
     "Delta DLL": "True",
     "Oxygen U API": "True",
-    "EasyExploits API": "False"
   },
   "Info": {
     "Major": "4",
