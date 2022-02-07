@@ -9,7 +9,8 @@
   },
   "AvailableDLLs": {
     "Oxygen U API": "True",
-    "EasyExploits API": "True"
+    "EasyExploits API": "True",
+    "test": "True"
   },
   "Info": {
     "Major": "4",
