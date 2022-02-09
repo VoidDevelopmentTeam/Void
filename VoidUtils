@@ -8,9 +8,8 @@
     "CurrentVersion": "https://setup.rbxcdn.com/version-4273769ff5944c9d-Roblox.exe"
   },
   "AvailableDLLs": {
-    "EasyExploits API": "True",
-    "Oxygen U API": "True",
-    "test": "True"
+    "EasyExploits API": "False",
+    "Oxygen U API": "True"
   },
   "Info": {
     "Major": "4",
