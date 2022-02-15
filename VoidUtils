@@ -15,7 +15,7 @@
     "Major": "4",
     "Minor": "1",
     "Build": "2",
-    "Revision": "0"
+    "Revision": "1"
   },
   "Links": {
     	"OxyBytecode": "https://github.com/iDevastate/Oxygen-v2/raw/main/OxygenBytecode.vmp.dll",
