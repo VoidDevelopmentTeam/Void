@@ -15,18 +15,17 @@
   "Info": {
     "Major": "4",
     "Minor": "1",
-    "Build": "2",
+    "Build": "3",
     "Revision": "0"
   },
   "Links": {
+  	"ServerInvite": "https://discord.gg/NyswhgX",
+	
     	"OxyBytecode": "https://github.com/iDevastate/Oxygen-v2/raw/main/OxygenBytecode.vmp.dll",
 	"OxyDLL": "https://github.com/iDevastate/Oxygen-v2/raw/main/something.vmp.dll",
 	"OxyInjector": "https://cdn.discordapp.com/attachments/881012449992658944/916811403510284348/injector.dll",
-	"EasyExploits": "https://cdn.discordapp.com/attachments/779633522658639893/909422663469006848/Dll2.dll",
-    	"FurkBytecode": "https://cdn.discordapp.com/attachments/881012449992658944/887901746783989770/FurkByteCode.dll",
 	
-	"ServerInvite": "https://discord.gg/NyswhgX",
-	"OxyBypass": "https://cdn.discordapp.com/attachments/827074856415133716/919359762758524928/OxygenURewrite-Protected.exe",
-	"Bypass": "https://cdn.discordapp.com/attachments/827074856415133716/919231328967335956/Inject.bat"
+    	"FurkBytecode": "https://cdn.discordapp.com/attachments/881012449992658944/887901746783989770/FurkByteCode.dll",
+	"FurkBypass": "https://cdn.discordapp.com/attachments/941434874861080677/944243521592918036/FurkUltra.exe",
   }
 }
