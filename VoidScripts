@@ -477,6 +477,27 @@
             "Description": "Auto Farm & More!",
             "Preview": "https://i.imgur.com/TGruJFU.png",
 	    "Tags": ["HOT", "TRENDING", "NEW"]
-        }
+	},
+        {    
+            "Name": "Demonfall",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/demonfall2",
+            "Description": "Auto Farm, Auto Trinkets, Teleports & More!",
+            "Preview": "https://i.imgur.com/JBp1Axt.png",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Funky Friday",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/fnff",
+            "Description": "Auto Play, Infinite Score, Legit Mode & More!",
+            "Preview": "https://i.imgur.com/DNQ3cId.jpg",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Grand Piece",
+            "Script": "https://raw.githubusercontent.com/ArponAG/Scripts/main/gpo.lua",
+            "Description": "Auto Farm, Teleports, Devil Fruit TP & More!",
+            "Preview": "https://i.imgur.com/U8CqsRi.png",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	 },
     ]
 }
