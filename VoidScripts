@@ -16,44 +16,44 @@
         }, 
 		{
             "Name": "Phantom Forces",
-            "Script": "https://pastebin.com/raw/Rx6JeU9M",
+            "Script": "https://gist.githubusercontent.com/TonyX03/0d8e81bba5be5b34f1d650d3a6d0ab18/raw/8a85560ef60f81a6a545da303ccf5e6b073e4177/gistfile1.txt",
             "Description": "#1 Phantom Forces script has silent aim, esp and alot more features",
             "Preview": "https://i.imgur.com/ZbhUobz.png",
 	    "Tags": ["OP", "RISKY", "OLD"]
         },
         {
             "Name": "Shindo Life",
-            "Script": "https://raw.githubusercontent.com/dontsteal/ok/main/ak47",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/shindolatest",
             "Description": "#1 Shindo Life script *Must wait around 10 seconds on executing*",
             "Preview": "https://i.imgur.com/F6UbRJK.png",
 	    "Tags": ["RISKY", "AUTOFARM", "OLD"]
         },
         {
-            "Name": "Darkhub",
-            "Script": "https://pastebin.com/raw/LwCa7jPq",
-            "Description": "#1 HUB for roblox exploiting",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845348167998373968/d8e0c0dc182e6fa9295cf3d4ac4376.png",
+            "Name": "Critical Legends",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/critical2",
+            "Description": "Auto Farm, Open All Chests, God Mode & More!",
+            "Preview": "https://i.imgur.com/TuNijYY.png",
 	    "Tags": ["HOT", "AUTOFARM", "OP"]
         },
         {
-            "Name": "Jail Break",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/j",
-            "Description": "#1 Jailbreak script with an undetected autofarm",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845363005558095942/85PwK0z.png",
+            "Name": "JailBreak",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/jbscript",
+            "Description": "Auto Farm, Arrest All, Troll Server & More!",
+            "Preview": "https://i.imgur.com/4F0FlO5.png",
 	    "Tags": ["HOT", "AUTOFARM", "OLD"]
         },
         {
             "Name": "Da Hood",
-            "Script": "https://pastebin.com/raw/MjgGqzhP",
+            "Script": "https://pastebin.com/raw/ZznBzbRp",
             "Description": "#1 Da Hood script with an undetectable autofarm",
             "Preview": "https://i.imgur.com/kzoM95H.png",
 	    "Tags": ["HOT", "TRENDING", "NEW"]
         },
         {
             "Name": "Blox Fruits",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bf",
-            "Description": "#1 Blox Fruits script with an undetectable OP autofarm",
-            "Preview": "https://i.imgur.com/5MMYCD8.png",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bf15",
+            "Description": "AutoFarm, Devil Fruit Farm, Chest Farm & More!",
+            "Preview": "https://i.imgur.com/XFTGb4j.jpg",
 	    "Tags": ["HOT", "TRENDING", "NEW"]
         },
         {
@@ -72,7 +72,7 @@
         },
         {
             "Name": "Arsenal",
-            "Script": "https://pastebin.com/raw/LfgaCscT",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/arsenal12",
             "Description": "#1 Arsenal script with silent aim and kill all",
             "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845393112218206239/FhKstt0.png",
 	    "Tags": ["HOT", "TRENDING", "NEW"]
@@ -93,7 +93,7 @@
         },
         {
             "Name": "Zyrex Hub",
-            "Script": "https://pastebin.com/raw/627ijEYs",
+            "Script": "https://raw.githubusercontent.com/NotZyrex/Zyrex-Hub/master/Main.lua",
             "Description": "A really good hub that has support for games like Arsenal, Big Paintball and more",
             "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845409382765297715/zyrex.png",
 	    "Tags": ["HOT", "TRENDING", "NEW"]
@@ -499,5 +499,61 @@
             "Preview": "https://i.imgur.com/U8CqsRi.png",
 	    "Tags": ["HOT", "TRENDING", "NEW"]
 	 },
-    ]
+         {
+            "Name": "Bedwars",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bedw",
+            "Description": "Kill Aura, Fly & More!",
+            "Preview": "https://i.imgur.com/QwbMdCe.png",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	 },
+         {
+	    "Name": "Deepwoken",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/deep",
+            "Description": "Exclusive GUI - ESP Only!",
+            "Preview": "https://i.imgur.com/BzOqYnV.png",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	 },
+         {
+	    "Name": "Blood Samurai II",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bs2",
+            "Description": "Auto Farm, Inf Stamina, And More!",
+            "Preview": "https://i.imgur.com/1LSXlWO.png",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	 },
+         {
+	    "Name": "Skywars",
+            "Script": "https://raw.githubusercontent.com/DohmBoyOG/Script-Dump/main/OPSkywarsGUI_NolixXDohmScripts_Public.lua",
+            "Description": "OP GUI - ESP, Infinite Blocks, Bring All Items & More!",
+            "Preview": "https://i.imgur.com/wBD7onM.jpg",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	 },
+         {
+	    "Name": "Dinosaur Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ds",
+            "Description": "Exclusive GUI - Auto Eat & More!",
+            "Preview": "https://i.imgur.com/9xuXKBe.png",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	 },
+         {
+	    "Name": "Fish Game",
+            "Script": "https://raw.githubusercontent.com/Pi-314Git/LunarSpirit/main/LunarFishGame.lua",
+            "Description": "OP GUI - Auto Farm, God Mode, Walk Speed & More!",
+            "Preview": "https://i.imgur.com/NHqb1hG.png",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	 },
+         {
+	    "Name": "A Hero's Destiny",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/ahero",
+            "Description": "Auto Farm, Kill All, Max Money & More!",
+            "Preview": "https://i.imgur.com/y4DHIMD.png",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	 },
+         {
+	    "Name": "Sorcerer Fighting Simulator",
+            "Script": "https://gist.githubusercontent.com/FurkyYT/69bb2e5560dcc789d31e8cd40d0a938d/raw/7b5769aa500ab5fbe35a677b7f63a8fcc4cd87e6/gistfile1.txt",
+            "Description": "AutoFarm, Teleports & A Lot More Features!",
+            "Preview": "https://i.imgur.com/VEKbn3c.jpg",
+	    "Tags": ["HOT", "TRENDING", "NEW"]
+	  }
+      ]
 }
