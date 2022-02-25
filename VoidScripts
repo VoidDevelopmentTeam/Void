@@ -556,5 +556,12 @@
 	    "Tags": ["HOT", "TRENDING", "NEW"]
 	    
 	 },
+         {
+	    "Name": "A Universal Time",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aut",
+            "Description": "Auto Chests, Auto Stands, Teleport & More!",
+            "Preview": "https://i.imgur.com/dDKjguM.png",
+	    "Tags": ["ZARBOK", "TRENDING", "NEW"]
+	 },
      ]
-}	  
+}
