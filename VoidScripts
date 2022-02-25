@@ -135,7 +135,7 @@
         },
         {
             "Name": "Your Bizzare Adventure",
-            "Script": "https://pastebin.com/raw/H2cGNcUx",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/yba",
             "Description": "#1 Script for Your Bizzare Adventure with an undetected autofarm",
             "Preview": "https://i.imgur.com/nIan1PP.png",
 	    "Tags": ["HOT", "TRENDING", "NEW"]
@@ -557,11 +557,319 @@
 	    
 	 },
          {
-	    "Name": "A Universal Time",
+            "Name": "A Universal Time",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aut",
             "Description": "Auto Chests, Auto Stands, Teleport & More!",
             "Preview": "https://i.imgur.com/dDKjguM.png",
 	    "Tags": ["ZARBOK", "TRENDING", "NEW"]
-	 },
+         },
+         {
+            "Name": "Infinite Yield",
+            "Script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+            "Description": "Admin GUI, works in all games!",
+            "Preview": "https://i.imgur.com/ZIhLfeX.png",
+	    "Tags": ["GLORY", "GETS", "BITCHES"]
+         },
+         {
+            "Name": "Pet Simulator X",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/petsimx",
+            "Description": "Auto Farm, Unlock GamePasses & More!",
+            "Preview": "https://i.imgur.com/D39xbN7.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Strucid",
+            "Script": "https://raw.githubusercontent.com/ao-0/methamphetamine-solutions/main/Loader.lua",
+            "Description": "Aimbot, Wallbang, ESP And More",
+            "Preview": "https://i.imgur.com/9lbYpnt.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Adopt Me",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/oding",
+            "Description": "Auto Farm & More!",
+            "Preview": "https://i.imgur.com/EQtDKpq.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Clicker Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/clicker",
+            "Description": "Auto Farm, Auto Rebirth, Chest Farm & More",
+            "Preview": "https://i.imgur.com/MBSk8bN.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Reaper 2",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/reaper",
+            "Description": "Auto Farm, Teleports & More!",
+            "Preview": "https://i.imgur.com/q8jZNE6.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Anime Warriors",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/animewar",
+            "Description": "Auto Farm, Insta Kill, And More!",
+            "Preview": "https://i.imgur.com/IPadepP.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Anime Dimensions",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ad",
+            "Description": "Auto Farm, Auto Skill, Overnight & More!",
+            "Preview": "https://i.imgur.com/xDouBMo.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Anime Battle Arena",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aba",
+            "Description": "No Stun, Hitbox Extender, And More!",
+            "Preview": "https://i.imgur.com/Cd9LrgB.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Creatures Of Sonaria",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/cos",
+            "Description": "Auto Farm, Teleport & More!",
+            "Preview": "https://i.imgur.com/zsBvXDQ.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "MeepCity",
+            "Script": "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
+            "Description": "Auto Farm, All GamePasses, Fly & More!",
+            "Preview": "https://i.imgur.com/GjXfIP3.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Little World",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/world",
+            "Description": "Auto Farm, Kill All & More!",
+            "Preview": "https://i.imgur.com/RbIPp6c.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Project New World",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/pnw",
+            "Description": "Auto Farm, Kill All & More!",
+            "Preview": "https://i.imgur.com/LgJQ6EX.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Last Pirates",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/lp",
+            "Description": "Auto Farm, Devil Fruit TP, Kill All & More!",
+            "Preview": "https://i.imgur.com/mhjb8Pd.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Dragon Ball Rage",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/drbr",
+            "Description": "Auto Farm, Fight Goku, Esp & More!",
+            "Preview": "https://i.imgur.com/wQ4yNEn.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Survive The Killer!",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/stk",
+            "Description": "ESP, Show Exit, Collect All Coins & More!",
+            "Preview": "https://i.imgur.com/jdI7PeP.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Project Star",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/starplatinum",
+            "Description": "Auto Farm, Item Farm, Mob Farm & More!",
+            "Preview": "https://i.imgur.com/GXA0TWf.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Identity Fraud",
+            "Script": "https://pastebin.com/raw/Ba1JHjSJ",
+            "Description": "OverPowered GUI With A Ton Of Features!",
+            "Preview": "https://i.imgur.com/N41N7zd.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Bad Business",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/badb",
+            "Description": "Aimbot, ESP, Walkspped & More!",
+            "Preview": "https://i.imgur.com/3wNXUxM.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Project XL",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/xl",
+            "Description": "Auto Farm, All Game Passes, Auto Quest & More!",
+            "Preview": "https://i.imgur.com/5IWWPm5.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Mortem Metallum",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/mortemm",
+            "Description": "Silent Aim, Auto Parry, Kill All & More!",
+            "Preview": "https://i.imgur.com/kDH3f0i.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Bitcoin Miner",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/btc",
+            "Description": "Auto Farm & More!",
+            "Preview": "https://i.imgur.com/G19y3BU.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "RoCitizens",
+            "Script": "https://raw.githubusercontent.com/10x00/Public-Scripts/main/10x%20Hub",
+            "Description": "Auto Job Farm, Auto Arrest & More!",
+            "Preview": "https://i.imgur.com/RfJs4Ai.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "True Piece",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/truepiece",
+            "Description": "Auto Farm, Teleports & More!",
+            "Preview": "https://i.imgur.com/Bv5UcC2.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Super Evolution",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/se",
+            "Description": "Kill Farm & Auto Quest!",
+            "Preview": "https://i.imgur.com/z2vyy09.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Item Asylum",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ia",
+            "Description": "Kill All!",
+            "Preview": "https://i.imgur.com/QzXbvJZ.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Critical Expedition",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ce",
+            "Description": "God mode, Collect All Chests, Infinite Combo & More!",
+            "Preview": "https://i.imgur.com/QLO1Zx6.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "The Maze",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/maze",
+            "Description": "Get Items, Full Bright, And More!",
+            "Preview": "https://i.imgur.com/e1J75h1.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "One Punch Man Destiny",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/OPM",
+            "Description": "Auto Farm, Quest Farm, Train And Many More!",
+            "Preview": "https://i.imgur.com/TckN77J.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Anime Destroyers Simulator",
+            "Script": "https://raw.githubusercontent.com/DevPolarhub/ScriptPacks/main/Anime%20Destroyers%20Simulator",
+            "Description": "Auto Farm, Kill Aura, Teleports & More!",
+            "Preview": "https://i.imgur.com/ItOYCn4.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Reaper",
+            "Script": "https://raw.githubusercontent.com/Hitsugaya-0/Stuff/main/reaperThing",
+            "Description": "Auto Farm, Auto Quests, ESP, Bankai Fight & More!",
+            "Preview": "https://i.imgur.com/JpwIpSs.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Zenkai Origins",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/zenkai",
+            "Description": "Auto Farm, God Mode, Kill Aura & More!",
+            "Preview": "https://i.imgur.com/8Q5PjVb.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Epic Minigames",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/em",
+            "Description": "Fly, Speed, Jump & More!",
+            "Preview": "https://i.imgur.com/VRTvo2m.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "My Dragon Tycoon",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/drag",
+            "Description": "Auto Farm, Auto Attack, Anti AFK & More!",
+            "Preview": "https://i.imgur.com/SeynyMN.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Psycho 100 Infinity",
+            "Script": "https://raw.githubusercontent.com/vep1032/VepStuff/main/Pyscho%20100%20Unpatch%20Gui",
+            "Description": "Auto Farm, Kill Aura, Chest Farm & More!",
+            "Preview": "https://i.imgur.com/cNcn1WJ.jpg",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "My Restaurant",
+            "Script": "https://pastebin.com/raw/VNLApiTy",
+            "Description": "OP GUI for My Restaurant!",
+            "Preview": "https://i.imgur.com/Y4rqLwU.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Retail Tycoon 2",
+            "Script": "https://pastebin.com/raw/PJ79AYsr",
+            "Description": "Auto Farm, Infinite Money & More!",
+            "Preview": "https://i.imgur.com/LcQnvTX.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Delivery Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/dsim",
+            "Description": "Exclusive GUI - Auto Farm!",
+            "Preview": "https://i.imgur.com/Y7a0joN.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Hero Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hs",
+            "Description": "Auto Farm, Mobs & More!",
+            "Preview": "https://i.imgur.com/HaQYCYc.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Slayers Unleashed",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/slayerun",
+            "Description": "Max Money, Max Stats, Max Level & More!",
+            "Preview": "https://i.imgur.com/SJxgMIh.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Factory Simulator",
+            "Script": "https://gist.githubusercontent.com/TonyX03/89cfcf69d75f6b60386b55197c5aa5c7/raw/8443b8d8aedc433990bbd69301bfb92e8464c9fa/gistfile1.txt",
+            "Description": "Harvest Aura & More!",
+            "Preview": "https://i.imgur.com/9mxNkuS.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Red Light, Green Light",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/redlight",
+            "Description": "Auto Farm, Auto Win!",
+            "Preview": "https://i.imgur.com/9DVuWon.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Hexa Game",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hexa",
+            "Description": "Auto Win, Troll, God Mode & More!",
+            "Preview": "https://i.imgur.com/F7cxvVD.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         },
+         {
+            "Name": "Shoot Out",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/so",
+            "Description": "Kill All, Silent Aim, Gun Mods & More",
+            "Preview": "https://i.imgur.com/RlI2bF1.png",
+	    "Tags": ["OP", "NEW", "HOT"]
+         }
      ]
 }
