@@ -3,10 +3,6 @@
     "Dark": "DARK6379fcad-1cb8-4c5a-a609-a19b1699cacc",
     "Glory": "GLORYBURGERMAN60596e3a-895a-4b0e-8173-41f466096346"
   },
-  "Roblox": {
-    "OlderVersion": "NaN",
-    "CurrentVersion": "https://setup.rbxcdn.com/version-4273769ff5944c9d-Roblox.exe"
-  },
   "AvailableDLLs": {
     "EasyExploits API": "False",
     "Furk Ultra DLL": "True",
