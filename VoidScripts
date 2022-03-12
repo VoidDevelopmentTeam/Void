@@ -1,875 +1,1313 @@
 {
-    "Scripts": 	[
+    "Scripts": [
         {
-            "Name": "Strongman Simulator",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/strong",
-            "Description": "Auto Farm, Auto Finish & Alot More",
-            "Preview": "https://i.imgur.com/HFs8p52.png",
-	    "Tags": ["HOT", "AUTOFARM", "OLD"]
-        }, 
-		{
+            "Name": "Infinite Yield",
+            "Script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+            "Description": "#1 Admin GUI, works in all games!",
+            "Preview": "https://i.imgur.com/ZIhLfeX.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Owl Hub",
             "Script": "https://pastebin.com/raw/S0yfHHWN",
-            "Description": "One of the best hubs to use",
-            "Preview": "https://cdn.discordapp.com/attachments/944350696139005952/947077401748312085/3wfoKAr.jpg",
-	    "Tags": ["HOT", "OP", "OLD"]
-        }, 
-		{
-            "Name": "Phantom Forces",
-            "Script": "https://gist.githubusercontent.com/TonyX03/0d8e81bba5be5b34f1d650d3a6d0ab18/raw/8a85560ef60f81a6a545da303ccf5e6b073e4177/gistfile1.txt",
-            "Description": "#1 Phantom Forces script has silent aim, esp and alot more features",
-            "Preview": "https://i.imgur.com/ZbhUobz.png",
-	    "Tags": ["OP", "RISKY", "OLD"]
+            "Description": "The Best Hub!",
+            "Preview": "https://i.imgur.com/3wfoKAr.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                        {
+            "Name": "NEW - Blox Fruits",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bf15",
+            "Description": "#1 Exclusive GUI - AutoFarm, Devil Fruit Farm, Chest Farm & More!",
+            "Preview": "https://i.imgur.com/jmZrQI6.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                {
+            "Name": "NEW - Pet Simulator X",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/petsimx",
+            "Description": "#1 Exclusive GUI - Auto Farm, Unlock GamePasses & More!",
+            "Preview": "https://i.imgur.com/D39xbN7.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
         },
         {
-            "Name": "Shindo Life",
+            "Name": "NEW - Shindo Life",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/shindolatest",
-            "Description": "#1 Shindo Life script *Must wait around 10 seconds on executing*",
-            "Preview": "https://i.imgur.com/F6UbRJK.png",
-	    "Tags": ["RISKY", "AUTOFARM", "OLD"]
+            "Description": "#1 Exclusive GUI - Infinite Spins, KG Changer, Auto Farm & More!",
+            "Preview": "https://i.imgur.com/fOqEMtc.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
         },
-        {
+                                                                {
+            "Name": "Anime Fighters Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/afs",
+            "Description": "#1 Exclusive GUI - Auto Farm, Kill All, Teleports & More!",
+            "Preview": "https://i.imgur.com/yidYZ5F.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                		{
+            "Name": "DemonFall",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/demonfall2",
+            "Description": "#1 Exclusive GUI - Auto Farm, Auto Trinkets, Teleports & More!",
+            "Preview": "https://i.imgur.com/JBp1Axt.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Funky Friday",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/fnff",
+            "Description": "#1 GUI - Auto Play, Infinite Score, Legit Mode & More!",
+            "Preview": "https://i.imgur.com/DNQ3cId.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                	{
+            "Name": "Strucid",
+            "Script": "https://raw.githubusercontent.com/ao-0/methamphetamine-solutions/main/Loader.lua",
+            "Description": "GUI - Aimbot, Wallbang, ESP And More",
+            "Preview": "https://i.imgur.com/9lbYpnt.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                        		{
+            "Name": "Murder Mystery 2",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/mmm2",
+            "Description": "#1 Exclusive GUI - Auto Farm, ESP, Walkspeed & More!",
+            "Preview": "https://i.imgur.com/qBFEjMu.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                	{
+            "Name": "Grand Piece Online",
+            "Script": "https://raw.githubusercontent.com/ArponAG/Scripts/main/gpo.lua",
+            "Description": "#1  GUI - Auto Farm, Teleports, Devil Fruit TP & More!",
+            "Preview": "https://i.imgur.com/U8CqsRi.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                		{
+            "Name": "Your Bizarre Adventure",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/yba",
+            "Description": "Exclusive GUI - Auto Farm, Item Search, Mods & More!",
+            "Preview": "https://i.imgur.com/wNCSwZf.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                		{
             "Name": "Critical Legends",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/critical2",
-            "Description": "Auto Farm, Open All Chests, God Mode & More!",
+            "Description": "#1 Exclusive GUI - Auto Farm, Open All Chests, God Mode & More!",
             "Preview": "https://i.imgur.com/TuNijYY.png",
-	    "Tags": ["HOT", "AUTOFARM", "OP"]
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                       {
+            "Name": "A Universal Time",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aut",
+            "Description": "Exclusive GUI - Auto Chests, Auto Stands, Teleport & More!",
+            "Preview": "https://i.imgur.com/dDKjguM.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "BloxBurg",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/blox",
+            "Description": "Exclusive AutoFarm for BloxBurg!",
+            "Preview": "https://i.imgur.com/PLzvt1X.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Adopt Me",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/oding",
+            "Description": "#1 Exclusive GUI, Auto Farm & More!",
+            "Preview": "https://i.imgur.com/EQtDKpq.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                                        		{
+            "Name": "Arsenal",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/arsenal12",
+            "Description": "#1 Exclusive GUI - Kill All, Silent Aim, ESP & More!",
+            "Preview": "https://i.imgur.com/HbaTTQA.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                	{
+            "Name": "Clicker Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/clickersime",
+            "Description":  "Exclusive GUI - Auto Farm, Auto Rebirth, Chest Farm & More",
+            "Preview": "https://i.imgur.com/MBSk8bN.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        	{
+            "Name": "Anime Punching Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aps",
+            "Description":  "Exclusive GUI - Auto Punch, Auto Sell, Auto Rebirth & More",
+            "Preview": "https://i.imgur.com/9sFsa8d.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                {
+            "Name": "Phantom Forces",
+            "Script": "https://gist.githubusercontent.com/TonyX03/0d8e81bba5be5b34f1d650d3a6d0ab18/raw/8a85560ef60f81a6a545da303ccf5e6b073e4177/gistfile1.txt",
+            "Description": "#1 GUI - Aimbot, ESP, Fly & More!",
+            "Preview": "https://i.imgur.com/8DT657M.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                {
+            "Name": "Bee Swarm Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/beeswar",
+            "Description": "#1 GUI - Auto Farm, Infinite Honey & More!",
+            "Preview": "https://i.imgur.com/Cw9A19j.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        		{
+            "Name": "BedWars",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bedw",
+            "Description": "Exclusive GUI - Kill Aura, Fly & More!",
+            "Preview": "https://i.imgur.com/QwbMdCe.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	{
+            "Name": "Anime Clicker Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/animeclick",
+            "Description":  "Exclusive GUI - Auto Farm, Gamepass Click Farm And More!",
+            "Preview": "https://i.imgur.com/syZ7MTv.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                	{
+            "Name": "Reaper 2",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/reaper",
+            "Description":  "Exclusive GUI - Auto Farm, Teleports & More!",
+            "Preview": "https://i.imgur.com/q8jZNE6.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+            },
+        	{
+            "Name": "Deepwoken",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/deep",
+            "Description":  "Exclusive GUI - ESP Only!",
+            "Preview": "https://i.imgur.com/BzOqYnV.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Anime Fighting Simulator",
+            "Script": "https://raw.githubusercontent.com/Code-Fludex/Lua-Scripts/main/AnimeFightingSim.lua",
+            "Description": "#1 GUI - Auto Farm, Teleports & More!",
+            "Preview": "https://i.imgur.com/zKkJ3zQ.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        	{
+            "Name": "Anime Warriors",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/animewar",
+            "Description": "GUI - Auto Farm, Insta Kill, And More!",
+            "Preview": "https://i.imgur.com/IPadepP.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Anime Dimensions",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ad",
+            "Description": "#1 Exclusive GUI - Auto Farm, Auto Skill, Overnight & More!",
+            "Preview": "https://i.imgur.com/xDouBMo.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
         },
         {
-            "Name": "JailBreak",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/jbscript",
-            "Description": "Auto Farm, Arrest All, Troll Server & More!",
-            "Preview": "https://i.imgur.com/4F0FlO5.png",
-	    "Tags": ["HOT", "AUTOFARM", "OLD"]
+            "Name": "Ninja Legends 2",
+            "Script": "https://pastebin.com/raw/h7698gep",
+            "Description": "#1 GUI, OP Auto Farm & Features!",
+            "Preview": "https://i.imgur.com/js4SWPw.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
         },
         {
             "Name": "Da Hood",
             "Script": "https://pastebin.com/raw/ZznBzbRp",
-            "Description": "#1 Da Hood script with an undetectable autofarm",
+            "Description": "Exclusive GUI - Auto Farm, Kill All, Teleports & More!",
             "Preview": "https://i.imgur.com/kzoM95H.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
+            "Tags": ["HOT", "TRENDING", "NEW"]
         },
         {
-            "Name": "Blox Fruits",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bf15",
-            "Description": "AutoFarm, Devil Fruit Farm, Chest Farm & More!",
-            "Preview": "https://i.imgur.com/XFTGb4j.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Bubble Gum Simulator",
-            "Script": "https://pastebin.com/raw/qwr3BftN",
-            "Description": "#1 BGS sim script with faster hatching and and many more useful features",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845377336412340244/bgs-sss.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        { 
-            "Name": "Murder Mystery 2",
-            "Script": "https://pastebin.com/raw/1BxuxagA",
-            "Description": "#1 MM2 script with some cool features to troll with",
-            "Preview": "https://i.imgur.com/qBFEjMu.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Arsenal",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/arsenal12",
-            "Description": "#1 Arsenal script with silent aim and kill all",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845393112218206239/FhKstt0.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Counter Blox",
-            "Script": "https://pastebin.com/raw/ibiSXstZ",
-            "Description": "#1 Counter Blox script with kill all and other OP features",
-            "Preview": "https://i.imgur.com/iercIzF.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Bloxburg",
-            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/blox",
-            "Description": "#1 Bloxburg script with a working autofarm",
-            "Preview": "https://i.imgur.com/PLzvt1X.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Zyrex Hub",
-            "Script": "https://raw.githubusercontent.com/NotZyrex/Zyrex-Hub/master/Main.lua",
-            "Description": "A really good hub that has support for games like Arsenal, Big Paintball and more",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845409382765297715/zyrex.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Zombie Attack",
-            "Script": "https://pastebin.com/raw/68nF22zn",
-            "Description": "#1 Autofarm for Zombie Attack",
-            "Preview": "https://i.imgur.com/sH7T9zG.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "All Star Tower Defense",
-            "Script": "https://pastebin.com/vFPKYeem",
-            "Description": "#1 Script for All star tower defense with a working autofarm and more",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845646722113077290/da24d84ca78b3a54fa33c481b45690.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Anime Fighting Simulator",
-            "Script": "https://pastebin.com/raw/95jm7Zb7",
-            "Description": "#1 Script for Anime Fighting Simulator with a working autofarm",
-            "Preview": "https://i.imgur.com/zKkJ3zQ.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Dungeon Quest",
-            "Script": "https://pastebin.com/raw/990hfycd",
-            "Description": "#1 Script for Dungeon Quest SUPER OP clears a dungeon in seconds",
-            "Preview": "https://i.imgur.com/iCIxTpX.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Islands",
-            "Script": "https://pastebin.com/raw/h2tsjM79",
-            "Description": "#1 Script for Islands with alot of useful features and an insane autofarm",
-            "Preview": "https://i.imgur.com/spVNVUb.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Your Bizzare Adventure",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/yba",
-            "Description": "#1 Script for Your Bizzare Adventure with an undetected autofarm",
-            "Preview": "https://i.imgur.com/nIan1PP.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Build A Boat",
-            "Script": "https://pastebin.com/raw/zAz9S7hm",
-            "Description": "#1 Script for Build A Boat with a working autofarm",
-            "Preview": "https://i.imgur.com/nhB1zZM.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Car Crushers 2",
-            "Script": "https://pastebin.com/raw/zAz9S7hm",
-            "Description": "#1 Autofarm for Car Crushers 2",
-            "Preview": "https://i.imgur.com/df6hDaM.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "King Legacy",
-            "Script": "https://raw.githubusercontent.com/sannin9000/scripts/main/kinglegacy.lua",
-            "Description": "#1 Script for King Legacy with a working autofarm and more epic stuff",
-            "Preview": "https://i.imgur.com/N7J5c3U.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Dragon Ball Z Final Stand",
-            "Script": "https://pastebin.com/raw/E0as8BX2",
-            "Description": "#1 Script for Dragon Ball Z Final Stand with an OP autofarm",
-            "Preview": "https://i.imgur.com/e7ivtMy.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Bee Swarm Simulator",
-            "Script": "https://pastebin.com/raw/rLJ1cTkQ",
-            "Description": "#1 Script for Bee Swarm Simulator with a working autofarm",
-            "Preview": "https://i.imgur.com/0OtJV1g.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Tower Of Hell",
-            "Script": "https://pastebin.com/raw/bBbdH5Uv",
-            "Description": "#1 Script for Tower Of Hell (instant win)",
-            "Preview": "https://i.imgur.com/8dC0pVP.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Demon Slayer RPG",
-            "Script": "https://raw.githubusercontent.com/HDTerebi/DSRPG2/master/DSRPG2%20Main%20Gui",
-            "Description": "#1 Script for Demon Slayer RPG get insanely powerful in minutes",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845740613148344330/dm-sly.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Muscle Legends",
-            "Script": "https://pastebin.com/raw/Rn6MK0jL",
-            "Description": "#1 Script for Muscle Legends",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845742902717579304/muscle-legends.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "SharkBite",
-            "Script": "https://pastebin.com/raw/Rn6MK0jL",
-            "Description": "#1 Script for SharkBite with an OP feature that auto kills the shark",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845747230933254184/sharkbite.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Lifting Titans",
-            "Script": "https://raw.githubusercontent.com/Evzc/scripts/main/Lifting_Titans.lua",
-            "Description": "#1 Script for Lifting Titans autosell, autolift and much more",
-            "Preview": "https://i.imgur.com/PHBVDeh.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Breaking Point",
-            "Script": "https://pastebin.com/raw/G1t3KJ1j",
-            "Description": "#1 Script for Breaking Point 100% hit chance, kill aura",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845751255674126356/jUFZMoN.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-         
-        },
-        {
-            "Name": "Tapping Gods",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/tg",
-            "Description": "#1 Script for Tapping Gods. Auto Farm, Auto Rebirth, Auto Eggs & More",
-            "Preview": "https://i.imgur.com/lWiycUY.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {                
-            "Name": "Anime Mania",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hm",
-            "Description": "#1 Script for Anime Mania has a working undetected autofarm",
-            "Preview": "https://i.imgur.com/qGy97Hw.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Fishing Simulator",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/fishing",
-            "Description": "#1 Script for Fishing Simulator with an autofarm and more cool features", 
-            "Preview": "https://i.imgur.com/6gghIhT.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Power Training",
-            "Script": "https://pastebin.com/raw/cHSFY8Cc",
-            "Description": "#1 Script for Power Training Simulator",
-            "Preview": "https://i.imgur.com/NMb5r3y.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "World Zero",
-            "Script": "https://raw.githubusercontent.com/HimikoToga1474/Ahegao-Hub/master/Main.Lua",
-            "Description": "Good script for World Zero that has some useful features",
-            "Preview": "https://i.imgur.com/C3vFFWo.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Tatakai Reborn",
-            "Script": "https://raw.githubusercontent.com/z4gs/scripts/master/tatakaiGui.lua",
-            "Description": "#1 Script for Tatakai Reborn with godmode, autofarm, money farm",
-            "Preview": "https://i.imgur.com/vwkkgpc.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Nok Piece",
-            "Script": "https://pastebin.com/raw/gzTpxirr",
-            "Description": "#1 Script for Nok Piece with an autofarm and many more OP features",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846123143630553108/b224690330931a4f0c8d64a1d32a7f.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },                           
-        {
-            "Name": "Piggy",
-            "Script": "https://pastebin.com/raw/GFEuS5Gu",
-            "Description": "#1 Script for Piggy, Kill All Bots, Break all traps and more",
-            "Preview": "https://i.imgur.com/N3CAL1O.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Flee The Facility",
-            "Script": "https://pastebin.com/raw/hJDWL6Rd",    
-            "Description": "#1 Script for Flee The Facility",
-            "Preview": "https://i.imgur.com/Yasptb3.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Vehicle Legends",
-            "Script": "https://pastebin.com/raw/Sd2L3MFy",
-            "Description": "#1 Script for Vehicle Legends with an autofarm",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/845982346644815902/61a124106e459a1f17fbe6cc9ad05c.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Blade Quest",
-            "Script": "https://pastebin.com/raw/5P1ax3Jg",
-            "Description": "#1 Script for Blade Quest with a working autofarm",
-            "Preview": "https://i.imgur.com/ociYJRY.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Pet Swarm Simulator",
-            "Script": "https://raw.githubusercontent.com/AltsegoD/script/master/PetSwarmSimulator.lua",
-            "Description": "#1 Script for Pet Swarm Simulator",
-            "Preview": "https://i.imgur.com/iLY4OTr.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {    
-            "Name": "Chat Bypasser",
-            "Script": "https://pastebin.com/raw/52yyvTs9",
-            "Description": "Bypass the chat and swear at people, has a feature where breaks the chat!",
-            "Preview": "https://cdn.discordapp.com/attachments/773194156909789225/846006756001579028/0f5cec6c616c00bb7b110eabc4036b.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Stands Awakening",
-            "Script": "https://pastebin.com/3tNuPwpt",
-            "Description": "#1 Script for Stands Awakening with an OP autofarm and many more features",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846122739906642010/0960766cf82813af617c77de4a6cbf.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Animal Simulator",
-            "Script": "https://pastebin.com/raw/VkWMKjkw",
-            "Description": "#1 Script for Animal Simulator with an autofarm.",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846031919825158164/ab862a8564266d5e7bb49d78cc6ae3.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Vehicle Simulator",
-            "Script": "https://pastebin.com/raw/xph3J7zM",                                                  
-            "Description": "#1 Script for Vehicle Simulator with a working autofarm and crate esp",
-            "Preview": "https://i.imgur.com/IpjCRVP.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "KAT",
-            "Script": "https://pastebin.com/raw/S0yfHHWN",
-            "Description": "#1 Script for KAT, silent aim, esp, tracers. OP asf",   
-            "Preview": "https://i.imgur.com/Drq3jbo.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Glue Piece",
-            "Script": "https://raw.githubusercontent.com/vep1032/VepStuff/main/GLUE%20PIECE%20GUI%20%7C%20OPEN%20SOURCE",
-            "Description": "#1 Script for Glue Piece, TP devil fruits, Autofarm",   
-            "Preview": "https://i.imgur.com/FWpaWiF.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        
-        },
-        {
-            "Name": "Destruction Simulator",
-            "Script": "https://pastebin.com/raw/kDwZqGan",
-            "Description": "#1 Destruction Simulator Script has no cooldown, faster rockets, bigger exploit radius and more",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846127566187134986/d00071f1debde811fa4d46af9ab669.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Wild West",
-            "Script": "https://pastebin.com/raw/4TfGra61",
-            "Description": "#1 Script for The Wild West with ESP, Gun Mods, Player Mods.",
-            "Preview": "https://i.imgur.com/fDIHUlR.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Heroes Legacy",
-            "Script": "https://raw.githubusercontent.com/HimikoToga1474/Ahegao-Hub/master/Main.Lua",        
-            "Description": "#1 Script for Heroes Legacy. Auto Farm, Inf Stamina, And More",
-            "Preview": "https://i.imgur.com/SmEIBgM.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Dragon Blox Ultimate",
-            "Script": "https://raw.githubusercontent.com/AraAraSa5yonara/ara-ara-men/main/ar%20ars",
-            "Description": "#1 Script for Dragon Blox Ultimate. Godmode, Auto Rebirth, N more",
-            "Preview": "https://i.imgur.com/x8O4PoL.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Broken Bones IV",
-            "Script": "https://pastebin.com/raw/sQpRuLgQ",
-            "Description": "#1 Script for Broken Bones IV. Infinite money, beat the game on executing this lmao",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846126799603761183/8fe1529c2b94fa3a3c6e2b4b597101.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Parkour",
-            "Script": "https://raw.githubusercontent.com/trashss/trashs-scripts-obfuscated/main/Parkour",
-            "Description": "#1 Script for Parkour. Has an autofarm to farm points",
-            "Preview": "https://i.imgur.com/vTntCMF.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Combat Rift",
-            "Script": "https://raw.githubusercontent.com/Kelvinouo/Hub/master/Combat%20Rift%20GUI",
-            "Description": "#1 Script for Combat Rift. Working autofarm and more",
-            "Preview": "https://i.imgur.com/vgtOIi6.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Mining Simulator",
-            "Script": "https://pastebin.com/raw/z3HDJ0Tk",
-            "Description": "#1 Script for Mining Simulator. Fast mine, Auto Mine, Auto Rebirth, Auto Sell & More!",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846314568862924800/dcf48e2a367b76f22e42e4669222b2.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Boku No Roblox",
-            "Script": "https://pastebin.com/raw/bufKx2CH",
-            "Description": "#1 Script for Boku No Roblox. Autofarm, Godmode, and more",
-            "Preview": "https://i.imgur.com/vjuZITa.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Westbound",
-            "Script": "https://raw.githubusercontent.com/MadCityAntiCheatIsBad/scripts/main/westbound.lua",
-            "Description": "#1 Script for Westbound. Open All Safes, Gun Mods, and more",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846320588867108864/6877af41d536d44b44fbe6aeaaf926.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Two Piece",
-            "Script": "https://pastebin.com/raw/Ha1AmekL",
-            "Description": "#1 Script for Two Piece. Autofarm, God Mode, Spam Kill and more.", 
-            "Preview": "https://i.imgur.com/AQM2sMx.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Legends Of Speed",
-            "Script": "https://pastebin.com/raw/meWXbpS4",
-            "Description": "#1 Script for Legends Of Speed. Collects every orb in 1 second, get 10 rebirths in 5 minutes!",
-            "Preview": "https://i.imgur.com/UPkNsjh.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Entry Point",
-            "Script": "https://raw.githubusercontent.com/gen40/EntryPointGUI/main/Entry_Point_OBFUSCATED.lua",
-            "Description": "#1 Script for Entry Point. Fast Reload, Bigget Hitboxes and more!",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846408598837526568/26dac0046cdde062d1336466dd864b.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Era of Althea",
-            "Script": "https://pastebin.com/raw/iqeywtbg",
-            "Description": "#1 Script for Era of Althea. Working autofarm, quest farm, & more",
-            "Preview": "https://i.imgur.com/AQM2sMx.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Mad City",
-            "Script": "https://pastebin.com/raw/uKbRzigG",
-            "Description": "#1 Script for Mad City. Autofarm, Auto Arrest, TP & MORE!",
-            "Preview": "https://i.imgur.com/ZNrpFi1.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Wacky Wizards",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ww",
-            "Description": "#1 Script for Wacky Wizards Exclusive GUI - Quick Potions, Items & More!",
-            "Preview": "https://i.imgur.com/yoRjIk0.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Food Magnet Simulator",
-            "Script": "https://pastebin.com/raw/p02QCys7",
-            "Description": "#1 Script for Food Magnet Simualtor. Auto Rebirth, Auto Collect Coins & More",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846883846490030100/9c2e68cee321ef0d31acb3dbab6a7c.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Snow Hub",
-            "Script": "https://pastebin.com/raw/1pegi0Jz",
-            "Description": "One of the best hubs for exploiting in SCP roleplay, arsenal, survive a disaster",
-            "Preview": "https://cdn.discordapp.com/attachments/834775618419556403/846885991880982588/efa050cca40807bb2c038d7f1ca38a.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "A Hero's Destiny",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/h",
-            "Description": "Auto Farm & More!",
-            "Preview": "https://i.imgur.com/TGruJFU.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	},
-        {    
-            "Name": "Demonfall",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/demonfall2",
-            "Description": "Auto Farm, Auto Trinkets, Teleports & More!",
-            "Preview": "https://i.imgur.com/JBp1Axt.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Funky Friday",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/fnff",
-            "Description": "Auto Play, Infinite Score, Legit Mode & More!",
-            "Preview": "https://i.imgur.com/DNQ3cId.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-        },
-        {
-            "Name": "Grand Piece",
-            "Script": "https://raw.githubusercontent.com/ArponAG/Scripts/main/gpo.lua",
-            "Description": "Auto Farm, Teleports, Devil Fruit TP & More!",
-            "Preview": "https://i.imgur.com/U8CqsRi.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	 },
-         {
-            "Name": "Bedwars",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bedw",
-            "Description": "Kill Aura, Fly & More!",
-            "Preview": "https://i.imgur.com/QwbMdCe.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	 },
-         {
-	    "Name": "Deepwoken",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/deep",
-            "Description": "Exclusive GUI - ESP Only!",
-            "Preview": "https://i.imgur.com/BzOqYnV.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	 },
-         {
-	    "Name": "Blood Samurai II",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bs2",
-            "Description": "Auto Farm, Inf Stamina, And More!",
-            "Preview": "https://i.imgur.com/1LSXlWO.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	 },
-         {
-	    "Name": "Skywars",
-            "Script": "https://raw.githubusercontent.com/DohmBoyOG/Script-Dump/main/OPSkywarsGUI_NolixXDohmScripts_Public.lua",
-            "Description": "OP GUI - ESP, Infinite Blocks, Bring All Items & More!",
-            "Preview": "https://i.imgur.com/wBD7onM.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	 },
-         {
-	    "Name": "Dinosaur Simulator",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ds",
-            "Description": "Exclusive GUI - Auto Eat & More!",
-            "Preview": "https://i.imgur.com/9xuXKBe.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	 },
-         {
-	    "Name": "Fish Game",
-            "Script": "https://raw.githubusercontent.com/Pi-314Git/LunarSpirit/main/LunarFishGame.lua",
-            "Description": "OP GUI - Auto Farm, God Mode, Walk Speed & More!",
-            "Preview": "https://i.imgur.com/NHqb1hG.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	 },
-         {
-	    "Name": "A Hero's Destiny",
-            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/ahero",
-            "Description": "Auto Farm, Kill All, Max Money & More!",
-            "Preview": "https://i.imgur.com/y4DHIMD.png",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	 },
-         {
-	    "Name": "Sorcerer Fighting Simulator",
-            "Script": "https://gist.githubusercontent.com/FurkyYT/69bb2e5560dcc789d31e8cd40d0a938d/raw/7b5769aa500ab5fbe35a677b7f63a8fcc4cd87e6/gistfile1.txt",
-            "Description": "AutoFarm, Teleports & A Lot More Features!",
-            "Preview": "https://i.imgur.com/VEKbn3c.jpg",
-	    "Tags": ["HOT", "TRENDING", "NEW"]
-	    
-	 },
-         {
-            "Name": "A Universal Time",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aut",
-            "Description": "Auto Chests, Auto Stands, Teleport & More!",
-            "Preview": "https://i.imgur.com/dDKjguM.png",
-	    "Tags": ["ZARBOK", "TRENDING", "NEW"]
-         },
-         {
-            "Name": "Infinite Yield",
-            "Script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
-            "Description": "Admin GUI, works in all games!",
-            "Preview": "https://i.imgur.com/ZIhLfeX.png",
-	    "Tags": ["GLORY", "GETS", "BITCHES"]
-         },
-         {
-            "Name": "Pet Simulator X",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/petsimx",
-            "Description": "Auto Farm, Unlock GamePasses & More!",
-            "Preview": "https://i.imgur.com/D39xbN7.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Strucid",
-            "Script": "https://raw.githubusercontent.com/ao-0/methamphetamine-solutions/main/Loader.lua",
-            "Description": "Aimbot, Wallbang, ESP And More",
-            "Preview": "https://i.imgur.com/9lbYpnt.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Adopt Me",
-            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/oding",
-            "Description": "Auto Farm & More!",
-            "Preview": "https://i.imgur.com/EQtDKpq.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Clicker Simulator",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/clicker",
-            "Description": "Auto Farm, Auto Rebirth, Chest Farm & More",
-            "Preview": "https://i.imgur.com/MBSk8bN.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Reaper 2",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/reaper",
-            "Description": "Auto Farm, Teleports & More!",
-            "Preview": "https://i.imgur.com/q8jZNE6.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Anime Warriors",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/animewar",
-            "Description": "Auto Farm, Insta Kill, And More!",
-            "Preview": "https://i.imgur.com/IPadepP.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Anime Dimensions",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ad",
-            "Description": "Auto Farm, Auto Skill, Overnight & More!",
-            "Preview": "https://i.imgur.com/xDouBMo.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
             "Name": "Anime Battle Arena",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aba",
-            "Description": "No Stun, Hitbox Extender, And More!",
+            "Description": "Exclusive GUI - No Stun, Hitbox Extender, And More!",
             "Preview": "https://i.imgur.com/Cd9LrgB.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "Creatures Of Sonaria",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/cos",
-            "Description": "Auto Farm, Teleport & More!",
+            "Description": "Exclusive GUI - Auto Farm, Teleport & More!",
             "Preview": "https://i.imgur.com/zsBvXDQ.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	    {
+            "Name": "Anime Mania",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hm",
+            "Description": "#1 EXCLUSIVE GUI, Auto Farm, Auto Upgrade, Teleports & More!",
+            "Preview": "https://i.imgur.com/qGy97Hw.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "MeepCity",
             "Script": "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
-            "Description": "Auto Farm, All GamePasses, Fly & More!",
+            "Description": "Best GUI - Auto Farm, All GamePasses, Fly & More!",
             "Preview": "https://i.imgur.com/GjXfIP3.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	    {
+            "Name": "Tatakai Reborn",
+            "Script": "https://raw.githubusercontent.com/z4gs/scripts/master/tatakaiGui.lua",
+            "Description": "#1 GUI, Money Farm, Level Farm, God Mode & More!",
+            "Preview": "https://i.imgur.com/vwkkgpc.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	        {
             "Name": "Little World",
             "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/world",
-            "Description": "Auto Farm, Kill All & More!",
+            "Description": "Best GUI, Auto Farm, Kill All & More!",
             "Preview": "https://i.imgur.com/RbIPp6c.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "KAT!",
+            "Script": "https://pastebin.com/raw/LwCa7jPq",
+            "Description": "#1 GUI - Silent Aim, God Mode, ESP & More!",
+            "Preview": "https://i.imgur.com/Drq3jbo.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "Project New World",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/pnw",
-            "Description": "Auto Farm, Kill All & More!",
+            "Description": "Exclusive GUI - Auto Farm, Kill All & More!",
             "Preview": "https://i.imgur.com/LgJQ6EX.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                {
+            "Name": "Mad City",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/maddd",
+            "Description": "#1 Exclusive GUI - Auto Farm, XP Farm, Fly & More!",
+            "Preview": "https://i.imgur.com/dH3XjWv.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                        		{
+            "Name": "Jailbreak",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/jbscript",
+            "Description": "#1 GUI - Auto Farm, Arrest All, Troll Server & More!",
+            "Preview": "https://i.imgur.com/4F0FlO5.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Two Piece",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/tp",
+            "Description": "Exclusive GUI - Auto Farm, Auto Devil Fruit, Kill All & More!",
+            "Preview": "https://i.imgur.com/TU0DDiT.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Last Pirates",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/lp",
-            "Description": "Auto Farm, Devil Fruit TP, Kill All & More!",
+            "Description": "Exclusive GUI - Auto Farm, Devil Fruit TP, Kill All & More!",
             "Preview": "https://i.imgur.com/mhjb8Pd.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Dragon Ball Rage",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/drbr",
-            "Description": "Auto Farm, Fight Goku, Esp & More!",
+            "Description": "Exclusive GUI - Auto Farm, Fight Goku, Esp & More!",
             "Preview": "https://i.imgur.com/wQ4yNEn.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Survive The Killer!",
+            "ID" : "131"
+        },
+        {
+            "Name": "Survive the Killer!",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/stk",
-            "Description": "ESP, Show Exit, Collect All Coins & More!",
+            "Description": "Exclusive GUI - ESP, Show Exit, Collect All Coins & More!",
             "Preview": "https://i.imgur.com/jdI7PeP.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                        {
             "Name": "Project Star",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/starplatinum",
-            "Description": "Auto Farm, Item Farm, Mob Farm & More!",
+            "Description": "#1 Exclusive GUI - Auto Farm, Item Farm, Mob Farm & More!",
             "Preview": "https://i.imgur.com/GXA0TWf.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Identity Fraud",
             "Script": "https://pastebin.com/raw/Ba1JHjSJ",
             "Description": "OverPowered GUI With A Ton Of Features!",
             "Preview": "https://i.imgur.com/N41N7zd.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                {
             "Name": "Bad Business",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/badb",
-            "Description": "Aimbot, ESP, Walkspped & More!",
+            "Description": "#1 GUI - Aimbot, ESP, Walkspped & More!",
             "Preview": "https://i.imgur.com/3wNXUxM.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Dragon Ball Z Final Stand",
+            "Script": "https://pastebin.com/raw/E0as8BX2",
+            "Description": "Best GUI, Kill All, Auto Farm & More!",
+            "Preview": "https://i.imgur.com/e7ivtMy.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Project XL",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/xl",
-            "Description": "Auto Farm, All Game Passes, Auto Quest & More!",
+            "Description": "#1 GUI - Auto Farm, All Game Passes, Auto Quest & More!",
             "Preview": "https://i.imgur.com/5IWWPm5.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                		{
+            "Name": "King Legacy",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/kinglegacy",
+            "Description": "#1 UPDATE 2 GUI - Raid Farm, Auto Farm & More!",
+            "Preview": "https://i.imgur.com/LEpRMwj.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Islands",
+            "Script": "https://pastebin.com/raw/n4a04U9Z",
+            "Description": "#1 GUI For Islands - Auto Farm Everything!",
+            "Preview": "https://i.imgur.com/spVNVUb.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Big Paintball",
+            "Script": "https://pastebin.com/raw/Kg8X8ce6",
+            "Description": "Exclusive GUI for Big Paintball!",
+            "Preview": "https://i.imgur.com/0X7M7Wy.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Heroes Legacy",
+            "Script": "https://pastebin.com/raw/K5rR7tJ0",
+            "Description": "Best GUI, Kill Aura, Infinite Stamina & More!",
+            "Preview": "https://i.imgur.com/Y7MsDCW.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "My Hero Mania",
+            "Script": "https://pastebin.com/raw/dFHhLc0W",
+            "Description": "Best AutoFarm Including Many More Features!",
+            "Preview": "https://i.imgur.com/QCbBEBa.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Mortem Metallum",
             "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/mortemm",
-            "Description": "Silent Aim, Auto Parry, Kill All & More!",
+            "Description": "#1 GUI, Silent Aim, Auto Parry, Kill All & More!",
             "Preview": "https://i.imgur.com/kDH3f0i.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Ninja Legends",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ninja",
+            "Description": "OverPowered GUI With A Lot Of Features Including An Autofarm!",
+            "Preview": "https://i.imgur.com/VllALEa.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Fishing Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/fishing",
+            "Description": "Best GUI - Auto Farm, Kill Shark, Sell All & More!",
+            "Preview": "https://i.imgur.com/6gghIhT.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Bitcoin Miner",
             "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/btc",
-            "Description": "Auto Farm & More!",
+            "Description": "Best GUI - Auto Farm & More!",
             "Preview": "https://i.imgur.com/G19y3BU.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "RoCitizens",
             "Script": "https://raw.githubusercontent.com/10x00/Public-Scripts/main/10x%20Hub",
-            "Description": "Auto Job Farm, Auto Arrest & More!",
+            "Description": "#1 GUI - Auto Job Farm, Auto Arrest & More!",
             "Preview": "https://i.imgur.com/RfJs4Ai.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Survive And Kill The Killers In Area 51",
+            "Script": "https://pastebin.com/raw/jbW1eMFd",
+            "Description": "OP GUI - TP To Weapons, Weapon Mods, Auto Pack A Punch & More!",
+            "Preview": "https://i.imgur.com/s2jBPow.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                       {
             "Name": "True Piece",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/truepiece",
-            "Description": "Auto Farm, Teleports & More!",
+            "Description": "Exclusive GUI - Auto Farm, Teleports & More!",
             "Preview": "https://i.imgur.com/Bv5UcC2.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	{
             "Name": "Super Evolution",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/se",
-            "Description": "Kill Farm & Auto Quest!",
+            "Description": "Exclusive GUI - Kill Farm & Auto Quest!",
             "Preview": "https://i.imgur.com/z2vyy09.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Item Asylum",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Tapping Gods",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/tg",
+            "Description": "Exclusive GUI - Auto Farm, Auto Rebirth, Auto Eggs & More!",
+            "Preview": "https://i.imgur.com/lWiycUY.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Saber Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/saber",
+            "Description": "GUI - Auto Farm, Unlock Islands, And More!",
+            "Preview": "https://i.imgur.com/55loBHC.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "item asylum",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ia",
-            "Description": "Kill All!",
+            "Description": "Exclusive GUI - Kill All!",
             "Preview": "https://i.imgur.com/QzXbvJZ.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Lifting Titans",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ll",
+            "Description": "Exclusive GUI - Auto Farm, Anti AFK & More!",
+            "Preview": "https://i.imgur.com/PHBVDeh.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "All Star Tower Defense",
+            "Script": "http://assasine.com/Scripts/All%20Star%20Tower%20Defense.lua",
+            "Description": "#1 GUI - Auto Farm, Auto Upgrade Unit & More!",
+            "Preview": "https://i.imgur.com/rKLRsjn.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Blood Samurai II",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bs2",
+            "Description": "Exclusive GUI - Auto Farm, Inf Stamina, And More!",
+            "Preview": "https://i.imgur.com/1LSXlWO.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Critical Expedition",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ce",
-            "Description": "God mode, Collect All Chests, Infinite Combo & More!",
+            "Description": "Exclusive GUI - God mode, Collect All Chests, Infinite Combo & More!",
             "Preview": "https://i.imgur.com/QLO1Zx6.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Driving Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/driving",
+            "Description": "GUI - Auto Farm, Car Mods & More!",
+            "Preview": "https://i.imgur.com/TBFvdWs.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Zombie Attack",
+            "Script": "https://raw.githubusercontent.com/NotZyrex/Zyrex-Hub/master/Main.lua",
+            "Description": "GUI - Kill All, Rapid Fire, Speed, And More!",
+            "Preview": "https://i.imgur.com/k6NydW1.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "The Maze",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/maze",
-            "Description": "Get Items, Full Bright, And More!",
+            "Description": "GUI - Get Items, Full Bright, And More!",
             "Preview": "https://i.imgur.com/e1J75h1.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "One Punch Man Destiny",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/OPM",
-            "Description": "Auto Farm, Quest Farm, Train And Many More!",
+            "Description": "GUI - Auto Farm, Quest Farm, Train And Many More!",
             "Preview": "https://i.imgur.com/TckN77J.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Prison Life",
+            "Script": "https://pastebin.com/raw/kmWxeu8P",
+            "Description": "Useful GUI with a lot of features!",
+            "Preview": "https://i.imgur.com/aQ8Y4t5.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "One Piece Millennium 3",
+            "Script": "http://assasine.com/Scripts/One_Piece_Millennium3.lua",
+            "Description": "Best Auto Farm, With Other Features!",
+            "Preview": "https://i.imgur.com/FSBqGyW.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Vesteria",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/vesteria",
+            "Description": "BEST! Auto Farm, God Mode, Kill All & More!",
+            "Preview": "https://i.imgur.com/ScZ5Fvt.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                {
             "Name": "Anime Destroyers Simulator",
             "Script": "https://raw.githubusercontent.com/DevPolarhub/ScriptPacks/main/Anime%20Destroyers%20Simulator",
-            "Description": "Auto Farm, Kill Aura, Teleports & More!",
+            "Description": "#1 GUI - Auto Farm, Kill Aura, Teleports & More!",
             "Preview": "https://i.imgur.com/ItOYCn4.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "Reaper",
             "Script": "https://raw.githubusercontent.com/Hitsugaya-0/Stuff/main/reaperThing",
             "Description": "Auto Farm, Auto Quests, ESP, Bankai Fight & More!",
             "Preview": "https://i.imgur.com/JpwIpSs.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                                {
             "Name": "Zenkai Origins",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/zenkai",
-            "Description": "Auto Farm, God Mode, Kill Aura & More!",
+            "Description": "#1 Exclusive GUI - Auto Farm, God Mode, Kill Aura & More!",
             "Preview": "https://i.imgur.com/8Q5PjVb.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "Epic Minigames",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/em",
-            "Description": "Fly, Speed, Jump & More!",
+            "Description": "Exclusive GUI - Fly, Speed, Jump & More!",
             "Preview": "https://i.imgur.com/VRTvo2m.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
             "Name": "My Dragon Tycoon",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/drag",
-            "Description": "Auto Farm, Auto Attack, Anti AFK & More!",
+            "Description": "Best GUI - Auto Farm, Auto Attack, Anti AFK & More!",
             "Preview": "https://i.imgur.com/SeynyMN.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Skywars",
+            "Script": "https://raw.githubusercontent.com/DohmBoyOG/Script-Dump/main/OPSkywarsGUI_NolixXDohmScripts_Public.lua",
+            "Description": "OP GUI - ESP, Infinite Blocks, Bring All Items & More!",
+            "Preview": "https://i.imgur.com/wBD7onM.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "Psycho 100 Infinity",
             "Script": "https://raw.githubusercontent.com/vep1032/VepStuff/main/Pyscho%20100%20Unpatch%20Gui",
-            "Description": "Auto Farm, Kill Aura, Chest Farm & More!",
+            "Description": "#1 GUI - Auto Farm, Kill Aura, Chest Farm & More!",
             "Preview": "https://i.imgur.com/cNcn1WJ.jpg",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "My Restaurant",
             "Script": "https://pastebin.com/raw/VNLApiTy",
             "Description": "OP GUI for My Restaurant!",
             "Preview": "https://i.imgur.com/Y4rqLwU.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        		{
+            "Name": "Wacky Wizards",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ww",
+            "Description": "Exclusive GUI - Quick Potions, Items & More!",
+            "Preview": "https://i.imgur.com/yoRjIk0.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Strongman Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/strong",
+            "Description": "GUI - Auto Farm, Auto Finish, Auto Collect & More!",
+            "Preview": "https://i.imgur.com/HFs8p52.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Dungeon Quest",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/dungeon",
+            "Description": "#1 GUI, Auto Farm, Kill All & More!",
+            "Preview": "https://i.imgur.com/iCIxTpX.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Combat Rift",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/CR",
+            "Description": "Exclusive GUI - Auto Farm & More!",
+            "Preview": "https://i.imgur.com/vgtOIi6.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                	{
+            "Name": "A Hero's Destiny",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/ahero",
+            "Description": "Exclusive GUI - Auto Farm, Kill All, Max Money & More!",
+            "Preview": "https://i.imgur.com/y4DHIMD.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	{
             "Name": "Retail Tycoon 2",
             "Script": "https://pastebin.com/raw/PJ79AYsr",
-            "Description": "Auto Farm, Infinite Money & More!",
+            "Description": "GUI - Auto Farm, Infinite Money & More!",
             "Preview": "https://i.imgur.com/LcQnvTX.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	{
+            "Name": "Pressure Wash Simulator",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/pressure",
+            "Description": "Exclusive GUI - Auto Farm, Auto Water, Infinite Money & More!",
+            "Preview": "https://i.imgur.com/BHKEqnd.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	{
+            "Name": "Demon Slayer RPG",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/dsrpg",
+            "Description": "Exclusive GUI - Auto Farm, Kill All, Teleports & More!",
+            "Preview": "https://i.imgur.com/ZqZ3V2C.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Dinosaur Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ds",
+            "Description": "Exclusive GUI - Auto Eat & More!",
+            "Preview": "https://i.imgur.com/9xuXKBe.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Zombie rush",
+            "Script": "https://pastebin.com/raw/esmLrpuP",
+            "Description": "#1 GUI For Zombie Rush",
+            "Preview": "https://i.imgur.com/sH7T9zG.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Lucky Blocks Battlegrounds",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/lb",
+            "Description": "Exclusive GUI - Get All Blocks, All Rare Items!",
+            "Preview": "https://i.imgur.com/mTzzJtQ.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Bee Sim",
+            "Script": "https://raw.githubusercontent.com/Developer1Liam/ArtexScripting/V1.2.1/BeeSimX",
+            "Description": "GUI - Auto Farm, Speed, And More!",
+            "Preview": "https://i.imgur.com/mK96dqy.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Car Crushers 2",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/cc2",
+            "Description": "Exclusive GUI - Auto Farm, Anti Afk & More!",
+            "Preview": "https://i.imgur.com/df6hDaM.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Ro-Ghoul",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/tokyo",
+            "Description": "#1 GUI - AutoFarm, Boss Farm, Auto Train & More!",
+            "Preview": "https://i.imgur.com/n0d93YU.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Hero Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hs",
+            "Description": "Exclusive GUI - Auto Farm, Mobs & More!",
+            "Preview": "https://i.imgur.com/HaQYCYc.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "Delivery Simulator",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/dsim",
             "Description": "Exclusive GUI - Auto Farm!",
             "Preview": "https://i.imgur.com/Y7a0joN.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Hero Simulator",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hs",
-            "Description": "Auto Farm, Mobs & More!",
-            "Preview": "https://i.imgur.com/HaQYCYc.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        		{
             "Name": "Slayers Unleashed",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/slayerun",
-            "Description": "Max Money, Max Stats, Max Level & More!",
+            "Description": "#1 Exclusive GUI - Max Money, Max Stats, Max Level & More!",
             "Preview": "https://i.imgur.com/SJxgMIh.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "Factory Simulator",
             "Script": "https://gist.githubusercontent.com/TonyX03/89cfcf69d75f6b60386b55197c5aa5c7/raw/8443b8d8aedc433990bbd69301bfb92e8464c9fa/gistfile1.txt",
-            "Description": "Harvest Aura & More!",
+            "Description": "GUI - Harvest Aura & More!",
             "Preview": "https://i.imgur.com/9mxNkuS.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
-            "Name": "Red Light, Green Light",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/redlight",
-            "Description": "Auto Farm, Auto Win!",
-            "Preview": "https://i.imgur.com/9DVuWon.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "ID" : "152"
+        },
+		{
+            "Name": "Bubble Gum Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bubble",
+            "Description":  "GUI - Auto Farm, Eggs, Teleport and More!",
+            "Preview": "https://i.imgur.com/gHClKUp.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "A Bizarre Day",
+            "Script": "https://pastebin.com/raw/5ejL42fe",
+            "Description": "OP Gui For A Bizzare Day",
+            "Preview": "https://i.imgur.com/kALzS56.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	        {
+            "Name": "Glue Piece",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/glu",
+            "Description": "Exclusive GUI - Auto Farm, Kill All & More!",
+            "Preview": "https://i.imgur.com/FWpaWiF.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                	{
+            "Name": "Fish Game",
+            "Script": "https://raw.githubusercontent.com/Pi-314Git/LunarSpirit/main/LunarFishGame.lua",
+            "Description":  "OP GUI - Auto Farm, God Mode, Walk Speed & More!",
+            "Preview": "https://i.imgur.com/NHqb1hG.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                {
             "Name": "Hexa Game",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hexa",
-            "Description": "Auto Win, Troll, God Mode & More!",
+            "Description": "#1 GUI - Auto Win, Troll, God Mode & More!",
             "Preview": "https://i.imgur.com/F7cxvVD.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         },
-         {
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                {
+            "Name": "Red Light, Green Light",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/redlight",
+            "Description":  "OP GUI - Auto Farm, Auto Win!",
+            "Preview": "https://i.imgur.com/9DVuWon.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Lift Legends Simulator",
+            "Script": "https://pastebin.com/raw/Jj69LUXB",
+            "Description": "AutoFarm GUI, one of the best!",
+            "Preview": "https://i.imgur.com/75nc2I7.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	        {
+            "Name": "Dragon Blox Ultimate",
+            "Script": "https://pastebin.com/raw/3rk2femQ",
+            "Description": "AutoFarm GUI for Dragon Blox!",
+            "Preview": "https://i.imgur.com/OEwd2hv.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Tower Of Hell",
+            "Script": "https://pastebin.com/raw/bBbdH5Uv",
+            "Description": "#1 GUI - Win Every Game!",
+            "Preview": "https://i.imgur.com/8dC0pVP.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Stands Awakening",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/Stands",
+            "Description": "GUI - Auto Farm & More!",
+            "Preview": "https://i.imgur.com/DWSqp39.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Nok Piece",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/np",
+            "Description": "GUI - Auto Farm, Auto Stats, Auto Quests & More!",
+            "Preview": "https://i.imgur.com/TE0rrFm.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Basically FNF",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hi",
+            "Description": "#1 Auto Play GUI!",
+            "Preview": "https://i.imgur.com/RhGLper.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Ultimate Tower Defense Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/utds",
+            "Description": "Exclusive GUI - Auto Fish!",
+            "Preview": "https://i.imgur.com/BAg8MkP.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
             "Name": "Shoot Out",
             "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/so",
-            "Description": "Kill All, Silent Aim, Gun Mods & More",
+            "Description": "Exclusive GUI - Kill All, Silent Aim, Gun Mods & More",
             "Preview": "https://i.imgur.com/RlI2bF1.png",
-	    "Tags": ["OP", "NEW", "HOT"]
-         }
-     ]
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Arcade Empire",
+            "Script": "https://pastebin.com/raw/iU8KedUZ",
+            "Description": "#1 GUI, Auto Farm, Auto Maintain & More!",
+            "Preview": "https://i.imgur.com/l1QhqEw.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Flee The Facility",
+            "Script": "https://pastebin.com/raw/fY4HGP4k",
+            "Description": "Best GUI - Auto Hack, Teleports, ESP & More!",
+            "Preview": "https://i.imgur.com/Yasptb3.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	 	{
+            "Name": "Boku No Roblox",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/boku",
+            "Description": "GUI - Auto Farm, Quest Farm, and More!",
+            "Preview": "https://i.imgur.com/vjuZITa.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                {
+            "Name": "RoVille",
+            "Script": "https://pastebin.com/raw/ueeA7zKf",
+            "Description": "#1 RoVille GUI",
+            "Preview": "https://i.imgur.com/f6ISTLa.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Amongst Us",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/amongst",
+            "Description": "GUI - Max Kill Range, Teleports and More!",
+            "Preview": "https://i.imgur.com/lTcr4K9.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Vehicle Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/Vehicl",
+            "Description": "Exclusive GUI - Car Settings, Character Cheats, Unblock Perks And Many More!",
+            "Preview": "https://i.imgur.com/IpjCRVP.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Counter Blox",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/cbro",
+            "Description": "#1 Exclusive GUI - Aimbot, ESP, Kill All & More!",
+            "Preview": "https://i.imgur.com/slKe0gq.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Breaking Point",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/breaking",
+            "Description":  "GUI - Aimbot, Always Hit!",
+            "Preview": "https://i.imgur.com/jUFZMoN.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Tower Of Misery",
+            "Script": "https://pastebin.com/raw/6FwuEuv9",
+            "Description": "#1 - GarfieldHub On Tower Of Misery!",
+            "Preview": "https://i.imgur.com/nykxINS.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Doomspire Brickbattle",
+            "Script": "https://pastebin.com/raw/6FwuEuv9",
+            "Description": "#1 - GarfieldHub On Doomspire Brickbattle!",
+            "Preview": "https://i.imgur.com/pzckhHo.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Assassin",
+            "Script": "https://pastebin.com/raw/a1cK1Up5",
+            "Description": "Best GUI - Silent Aim, ESP, Auto Coins & More!",
+            "Preview": "https://i.imgur.com/779WWnU.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Ragdoll Engine",
+            "Script": "https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/RagdollEngineGUI.lua",
+            "Description": "Best GUI For Ragdoll Engine",
+            "Preview": "https://i.imgur.com/Brxku36.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Legends Of Speed",
+            "Script": "https://pastebin.com/raw/3wkAPFZT",
+            "Description": "#1 GUI, Best AutoFarm Available!",
+            "Preview": "https://i.imgur.com/SbtWMV1.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Impostor",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/imp",
+            "Description":  "GUI - Auto Task, ESP, Teleports, and More!",
+            "Preview": "https://i.imgur.com/C4V7Rdq.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Zombie Defense Tycoon",
+            "Script": "https://pastebin.com/raw/QRLkCeGw",
+            "Description": "GUI with many features!",
+            "Preview": "https://i.imgur.com/ZSHIZwX.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Hero's Ultimatum",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/hu",
+            "Description": "Exclusive GUI - Auto Farm, Auto Stats, Hide Identity & More!",
+            "Preview": "https://i.imgur.com/NOkKdI8.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Pet Battle Simulator",
+            "Script": "https://pastebin.com/raw/wa7iQDB5",
+            "Description": "No GUI, just AutoFarm",
+            "Preview": "https://i.imgur.com/bgI0UiR.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        		{
+            "Name": "Ninja Tycoon",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ninjatyc",
+            "Description": "#1 GUI - Auto Farm, Get All Tools & More!",
+            "Preview": "https://i.imgur.com/EwR0Gu5.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        		{
+            "Name": "Break In Story",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/breakin",
+            "Description": "Exclusive GUI - Auto Heal, Kill Bad Guy, And More!",
+            "Preview": "https://i.imgur.com/oh7wEeW.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Pet Swarm Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/pss",
+            "Description": "GUI - Auto Farm & More!",
+            "Preview": "https://i.imgur.com/YrZ7voO.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Treasure Hunt Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ths",
+            "Description": "GUI - Auto Farm & More!",
+            "Preview": "https://i.imgur.com/momfuVN.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Bulked Up",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bulk",
+            "Description": "GUI - Gems Farm & More!",
+            "Preview": "https://i.imgur.com/eVdbVpk.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	{
+            "Name": "RO-Wizard",
+            "Script": "https://raw.githubusercontent.com/FurkyYT/Vesteria/main/wiz",
+            "Description": "OP GUI, Includes the best features!",
+            "Preview": "https://i.imgur.com/G19y3BU.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Ragdoll Royale",
+            "Script": "https://pastebin.com/raw/zcNpHJ9J",
+            "Description": "#1 GUI For Ragdoll Royale",
+            "Preview": "https://i.imgur.com/QdTX6ta.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Laundry Simulator",
+            "Script": "https://raw.githubusercontent.com/KibbeWater/RBX-Luas/main/KibbeWater-LaundrySim.lua",
+            "Description": "#1 GUI - Auto Farm, Fill Washers, Sell All & More!",
+            "Preview": "https://i.imgur.com/Vfk10p3.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Wisteria",
+            "Script": "https://pastebin.com/raw/Pk2fNM4G",
+            "Description": "OP GUI, Auto Quest, Teleports, Kill & more!",
+            "Preview": "https://i.imgur.com/Pfev4pj.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Boxing League",
+            "Script": "https://raw.githubusercontent.com/trashss/trashs-scripts-obfuscated/main/Boxing%20League",
+            "Description": "GUI - Auto Farm, Kill Aura & More!",
+            "Preview": "https://i.imgur.com/himlOeY.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Ben 10 Ultimate Ensemble",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/10",
+            "Description": "Exclusive GUI - Item TP, Locations & More!",
+            "Preview": "https://i.imgur.com/7FBFLrD.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Natural Disaster Survival",
+            "Script": "https://pastebin.com/raw/LqJp6jSa",
+            "Description": "OP GUI, Auto Win Every Game!",
+            "Preview": "https://i.imgur.com/S3i3SnL.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Elemental Battlegrounds",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/eb",
+            "Description": "Exclusive GUI - Auto Farm, XP Farm, Local Scripts & More!",
+            "Preview": "https://i.imgur.com/0zfUBm0.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Muscle Legends",
+            "Script": "https://pastebin.com/raw/KL1Pb4pa",
+            "Description": "AutoFarming GUI, With LocalPlayer Scripts!",
+            "Preview": "https://i.imgur.com/u1wlUSs.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Pet Swarm Simulator",
+            "Script": "https://raw.githubusercontent.com/AltsegoD/script/master/PetSwarmSimulator.lua",
+            "Description": "Best GUI - Auto Farm, Auto Eggs & more!",
+            "Preview": "https://i.imgur.com/iLY4OTr.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Dragon Adventures",
+            "Script": "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
+            "Description": "#1 GUI - Auto Farm, Auto Level, Auto Eggs & More!",
+            "Preview": "https://i.imgur.com/9eHiCsd.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Wild West",
+            "Script": "https://pastebin.com/raw/gGtYE8mc",
+            "Description": "Best GUI - HitBox Extender, Gun Mods, Player Mods & More! ",
+            "Preview": "https://i.imgur.com/RkKR1EN.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Fall Block",
+            "Script": "https://pastebin.com/raw/LYbU5iev",
+            "Description": "OP GUI, Auto Win, Teleport, Infinite Level & More!",
+            "Preview": "https://i.imgur.com/oRwedkD.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Field Trip Z",
+            "Script": "https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub",
+            "Description": "#1 GUI - Kill All Zombies, God Mode All & More!",
+            "Preview": "https://i.imgur.com/8VPTDlZ.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Shark Evolution",
+            "Script": "https://pastebin.com/raw/JrtUtZDn",
+            "Description": "Autofarm GUI For Shark Evolution",
+            "Preview": "https://i.imgur.com/r4InPe5.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Sorcerer Fighting Simulator",
+            "Script": "https://gist.githubusercontent.com/FurkyYT/69bb2e5560dcc789d31e8cd40d0a938d/raw/7b5769aa500ab5fbe35a677b7f63a8fcc4cd87e6/gistfile1.txt",
+            "Description": "AutoFarm, Teleports & A Lot More Features!",
+            "Preview": "https://i.imgur.com/VEKbn3c.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                        {
+            "Name": "3-2-1 Blast Off",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/321",
+            "Description": "Exclusive GUI - Auto Farm, Auto Sell, Auto Upgrade & More!",
+            "Preview": "https://i.imgur.com/fWhTXFg.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+                        {
+            "Name": "Youtube Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ytsim",
+            "Description": "Exclusive GUI - Auto Upload, Auto Edit, Auto Upgrade & More!",
+            "Preview": "https://i.imgur.com/wulxNK8.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Science Simulator",
+            "Script": "https://gist.githubusercontent.com/FurkyYT/20f3b94e9984c7533f3941d2e980931d/raw/6db03955976d3b981ec22b5d10a0e62be2400cc2/gistfile1.txt",
+            "Description": "#1 AutoFarming GUI, does EVERYTHING for you!",
+            "Preview": "https://i.imgur.com/EFkXLJf.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Speed Run Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/sped",
+            "Description": "Auto Speed, Auto Eggs, Farm Item & More!",
+            "Preview": "https://i.imgur.com/tR4dlwc.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Knight Heroes",
+            "Script": "https://paste.ee/r/utqvF/0",
+            "Description": "GUI - Auto Farm, Unlock All Collectibles, Get Rich!",
+            "Preview": "https://i.imgur.com/xpj4lF9.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Swordburst 2",
+            "Script": "https://pastebin.com/raw/0Hw5E6gD",
+            "Description": "BEST GUI, Kill Aura, Damage Multiplier & More!",
+            "Preview": "https://i.imgur.com/vGNAfN0.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+	        {
+            "Name": "Attack On Titan Last Breath",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aot",
+            "Description": "Auto Farm, Kill All Titans!",
+            "Preview": "https://i.imgur.com/5TWF9kS.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Giant Simulator",
+            "Script": "https://pastebin.com/raw/4F4HNaQC",
+            "Description": "GUI - Auto Farm, Boss TP, Auto Rebirtbh And Many More!",
+            "Preview": "https://i.imgur.com/FnnpVf9.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Tower Heroes",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/towerr",
+            "Description": "GUI - Auto Upgrade!",
+            "Preview": "https://i.imgur.com/Ltyb0s3.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Notoriety",
+            "Script": "https://gist.githubusercontent.com/FurkyYT/d114ca662992c3e7f8b814434f0a1d03/raw/3f6859df63895f51840d10773906c83e85297104/gistfile1.txt",
+            "Description": "OP GUI, Auto Farm, Kill All & More!",
+            "Preview": "https://i.imgur.com/Jeyt7S0.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Adventurer Simulator",
+            "Script": "https://pastebin.com/raw/Mxv9YyJn",
+            "Description": "#1 Auto Farm GUI & More Features!",
+            "Preview": "https://i.imgur.com/n8B28ud.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Pet Clicks Simulator",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/pet",
+            "Description": "Best GUI - Auto Click, Click Multiplier, Auto Eggs & More!",
+            "Preview": "https://i.imgur.com/pAF5apR.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Wolves' Life 3",
+            "Script": "https://gist.githubusercontent.com/FurkyYT/e3bd8f8c83e5f855440ed7f4d16ca7b8/raw/4c9ace23d26cc9cea89b0fc7ca81d985392a84ae/gistfile1.txt",
+            "Description": "Best Auto Farm, With Other Features!",
+            "Preview": "https://i.imgur.com/ZOQoen0.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Site-76 Prison Anomalies",
+            "Script": "https://gist.githubusercontent.com/FurkyYT/903f7b0dbeb3f0b4f14de1145a9ef647/raw/c623c5ee6478e4072eadd677dc31c65956909123/gistfile1.txt",
+            "Description": "Best GUI for Prison Anomalies!",
+            "Preview": "https://i.imgur.com/y5PVLhW.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Booga Booga Classic",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/ooga",
+            "Description": "EXCLUSIVE GUI - Kill Aura, Teleports, ESP & More!",
+            "Preview": "https://i.imgur.com/yFY4EE1.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Ragdoll Mania",
+            "Script": "https://gist.githubusercontent.com/FurkyYT/2523ea81e0935a3abc3505e802d93dcc/raw/28948bf4e591813d3b2598b0b8936b3aeab4e6e4/gistfile1.txt",
+            "Description": "#1 GUI, Auto Farm, Teleports & More!",
+            "Preview": "https://i.imgur.com/sDgBMWP.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Project Baki 2",
+            "Script": "https://gist.githubusercontent.com/FurkyYT/41fd6c94cfd8e2d128a89a732bc77bcd/raw/f2d163aa85506079140f1ba8ef0f2d3797eaa520/gistfile1.txt",
+            "Description": "OverPowered GUI, #1, Lots Of Features!",
+            "Preview": "https://i.imgur.com/wktuwel.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Naval Warfare",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/nav",
+            "Description": "Exclusive GUI - Infinite Ammo, Speed Shoot And More!",
+            "Preview": "https://i.imgur.com/vpD5jRu.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Project Lazarus",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/project",
+            "Description": "GUI - ESP, Noclip, Fly And Many More!",
+            "Preview": "https://i.imgur.com/Zab7HGy.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Oofing Legends",
+            "Script": "https://pastebin.com/raw/ccLYWhWs",
+            "Description": "Autofarm GUI For Oofing Legends",
+            "Preview": "https://i.imgur.com/QPcQT4M.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "World Zero",
+            "Script": "https://raw.githubusercontent.com/HimikoToga1474/Ahegao-Hub/master/Main.Lua",
+            "Description": "Miscellaneous GUI with other features!",
+            "Preview": "https://i.imgur.com/C3vFFWo.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Blade Quest",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/bq",
+            "Description": "Exclusive Auto Farm GUI!",
+            "Preview": "https://i.imgur.com/ociYJRY.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "One Piece Millennium 3",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/opm3",
+            "Description": "EXCLUSIVE GUI - Auto Farm, One Shot Kill Aura, Fruit TP & More!",
+            "Preview": "https://i.imgur.com/XrsMsOp.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Parkour",
+            "Script": "https://raw.githubusercontent.com/LegoHacks/Parkour/main/Main.lua",
+            "Description": "BEST GUI - Auto Farm, Maxed Combo, Speed Hack, Free Tricks & More!",
+            "Preview": "https://i.imgur.com/GBs8v8a.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Critical Strike",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/strikefirst",
+            "Description": "#1 - Kill Aura, God Mode, No Cooldown, One Shot, No Void Damage!",
+            "Preview": "https://i.imgur.com/3wYUYUW.jpg",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "A Modded Adventure",
+            "Script": "https://pastebin.com/raw/Lpq7wALt",
+            "Description": "OP GUI for A Modded Adventure",
+            "Preview": "https://i.imgur.com/nLD8cTS.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Super Power Fighting Simulator",
+            "Script": "https://pastebin.com/raw/Xneye3nA",
+            "Description": "Best Super Power Fighting Simulator GUI!",
+            "Preview": "https://i.imgur.com/NMb5r3y.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Build A Boat For Treasure",
+            "Script": "https://raw.githubusercontent.com/RegularVynixu/Vynixius/main/Build%20A%20Boat%20For%20Treasure/BABFT",
+            "Description": "#1 GUI - Auto Farm, Auto Build, No Water Damage & More!",
+            "Preview": "https://i.imgur.com/nhB1zZM.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Pick A Side",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/aslide",
+            "Description": "GUI - Auto Farm!",
+            "Preview": "https://i.imgur.com/XeWa8Ni.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Lumber Tycoon 2",
+            "Script": "https://pastebin.com/raw/U0veBN66",
+            "Description": "GUI with tons of useful features!",
+            "Preview": "https://i.imgur.com/cJEjLla.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+        {
+            "Name": "Mining Simulator",
+            "Script": "https://pastebin.com/raw/p4ihNBSw",
+            "Description": "#1 AutoFarming GUI, does EVERYTHING for you!",
+            "Preview": "https://i.imgur.com/vUZcGVG.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Horrific Housing",
+            "Script": "https://pastebin.com/raw/ZSUJa5hM",
+            "Description": "#1 GUI, With Lots Of Features!",
+            "Preview": "https://i.imgur.com/kpK1fxd.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        },
+		{
+            "Name": "Tapping Simulator",
+            "Script": "https://pastebin.com/raw/jvsnch8a",
+            "Description": "OverPowered GUI, #1, Lots Of Features!",
+            "Preview": "https://i.imgur.com/WwNbYL6.png",
+            "Tags": ["HOT", "TRENDING", "NEW"]
+        }
+    ]
 }
