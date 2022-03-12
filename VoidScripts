@@ -712,7 +712,7 @@
             "Script": "https://gist.githubusercontent.com/TonyX03/89cfcf69d75f6b60386b55197c5aa5c7/raw/8443b8d8aedc433990bbd69301bfb92e8464c9fa/gistfile1.txt",
             "Description": "GUI - Harvest Aura & More!",
             "Preview": "https://i.imgur.com/9mxNkuS.png",
-            "ID" : "152"
+            "Tags": ["HOT", "TRENDING", "NEW"]
         },
 		{
             "Name": "Bubble Gum Simulator",
