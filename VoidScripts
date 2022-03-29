@@ -1308,6 +1308,15 @@
             "Description": "OverPowered GUI, #1, Lots Of Features!",
             "Preview": "https://i.imgur.com/WwNbYL6.png",
             "Tags": ["HOT", "TRENDING", "NEW"]
+	    
+	},
+	{
+	    "Name": "Rebirth Champions X",
+            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/rebirthchamps",
+            "Description": "Exclusive GUI - Auto Farm, Auto Rebirth, Auto Stats & More!",
+            "Preview": "https://i.imgur.com/SxsMBu9.png",
+            "Tags":    ["HOT", "TRENDING", "NEW"]
+	      
         }
     ]
 }
