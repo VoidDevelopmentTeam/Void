@@ -19,7 +19,7 @@
 	
     	"OxyBytecode": "https://github.com/iDevastate/Oxygen-v2/raw/main/OxygenBytecode.vmp.dll",
 	"OxyDLL": "https://github.com/iDevastate/Oxygen-v2/raw/main/something.vmp.dll",
-	"OxyInjector": "https://cdn.discordapp.com/attachments/881012449992658944/916811403510284348/injector.dll",
+	"OxyInjector": "https://raw.githubusercontent.com/iDevastate/Oxygen-v2/main/Injector.vmp.exe",
 	
     	"FurkBytecode": "https://cdn.discordapp.com/attachments/881012449992658944/964040035068428328/FurkByteCode.dll",
 	"FurkBypass": "https://cdn.discordapp.com/attachments/941434874861080677/944243521592918036/FurkUltra.exe",
