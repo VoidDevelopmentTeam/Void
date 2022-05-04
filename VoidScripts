@@ -142,7 +142,7 @@
         },
                                 {
             "Name": "Bee Swarm Simulator",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/beeswar",
+            "Script": "https://raw.githubusercontent.com/UltraStuff/scripts2/main/beeswarm",
             "Description": "#1 GUI - Auto Farm, Infinite Honey & More!",
             "Preview": "https://i.imgur.com/Cw9A19j.png",
             "Tags": ["HOT", "TRENDING", "NEW"]
