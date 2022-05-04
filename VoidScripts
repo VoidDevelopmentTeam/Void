@@ -891,7 +891,7 @@
         },
         {
             "Name": "Ragdoll Engine",
-            "Script": "https://gitlab.com/Tsuniox/lua-stuff/-/raw/master/RagdollEngineGUI.lua",
+            "Script": "https://raw.githubusercontent.com/UltraStuff/scripts2/main/ragdoll",
             "Description": "Best GUI For Ragdoll Engine",
             "Preview": "https://i.imgur.com/Brxku36.png",
             "Tags": ["HOT", "TRENDING", "NEW"]
