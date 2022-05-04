@@ -121,7 +121,7 @@
         },
                                 	{
             "Name": "Clicker Simulator",
-            "Script": "https://raw.githubusercontent.com/dontsteal/donttouch/main/clickersime",
+            "Script": "https://raw.githubusercontent.com/UltraStuff/scripts2/main/clicker",
             "Description":  "Exclusive GUI - Auto Farm, Auto Rebirth, Chest Farm & More",
             "Preview": "https://i.imgur.com/MBSk8bN.png",
             "Tags": ["HOT", "TRENDING", "NEW"]
