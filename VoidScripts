@@ -135,7 +135,7 @@
         },
                 {
             "Name": "Phantom Forces",
-            "Script": "https://gist.githubusercontent.com/TonyX03/0d8e81bba5be5b34f1d650d3a6d0ab18/raw/8a85560ef60f81a6a545da303ccf5e6b073e4177/gistfile1.txt",
+            "Script": "https://raw.githubusercontent.com/UltraStuff/scripts2/main/pf",
             "Description": "#1 GUI - Aimbot, ESP, Fly & More!",
             "Preview": "https://i.imgur.com/8DT657M.png",
             "Tags": ["HOT", "TRENDING", "NEW"]
