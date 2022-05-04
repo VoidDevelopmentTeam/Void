@@ -1316,6 +1316,21 @@
             "Description": "Exclusive GUI - Auto Farm, Auto Rebirth, Auto Stats & More!",
             "Preview": "https://i.imgur.com/SxsMBu9.png",
             "Tags":    ["HOT", "TRENDING", "NEW"]
+	},
+	{
+	    "Name": "A One Piece Game",
+            "Script": "https://raw.githubusercontent.com/UltraStuff/scripts2/main/aonepieceupd",
+            "Description": "UPDATE 6 - Auto Farm, Fruit Sniper, Teleports & More!",
+            "Preview": "https://i.imgur.com/Y0osg3v.png",
+            "Tags":    ["HOT", "TRENDING", "NEW"]
+	},
+	{
+	    "Name": "Stand Upright Rebooted",
+            "Script": "https://raw.githubusercontent.com/UltraStuff/scripts2/main/stand%20upright",
+            "Description": "Auto Farm, God Mode, Fly & More!",
+            "Preview": "https://i.imgur.com/6DqP4md.png",
+            "Tags":    ["HOT", "TRENDING", "NEW"]
+	    
         }
     ]
 }
