@@ -4,9 +4,8 @@
     "Glory": "GLORYBURGERMAN60596e3a-895a-4b0e-8173-41f466096346"
   },
   "AvailableDLLs": {
-    "EasyExploits API": "False",
     "Furk Ultra DLL": "True",
-    "Oxygen U API": "False"
+    "Oxygen U API": "True"
   },
   "Info": {
     "Major": "4",
