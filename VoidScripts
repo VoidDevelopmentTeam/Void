@@ -1,6 +1,6 @@
 {
     "Scripts": [
-        
+    	{
             "Name": "Infinite Yield",
             "Script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
             "Description": "#1 Admin GUI, works in all games!",
